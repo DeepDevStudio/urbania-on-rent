@@ -77,12 +77,12 @@ if ($startPos !== false && $endPos !== false) {
             <?php 
             \$seo_alt_keywords = [
                 'Urbania on Rent',
-                'Urbania on Rent in Delhi',
+                'Force Urbania on Rent in Delhi',
                 'Urbania Rental in Delhi',
                 'Urbania Hire in Delhi',
                 'Urbania Booking Delhi',
                 'Force Urbania on Rent Delhi',
-                'Luxury Urbania on Rent Delhi',
+                'Luxury Force Urbania on Rent Delhi',
                 'Urbania Traveller on Rent Delhi',
                 'Urbania Van on Rent Delhi'
             ];

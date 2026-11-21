@@ -467,7 +467,7 @@ include 'header.php';
                     Experience the ultimate in group luxury travel with our customized <strong>Royal Rajasthan Heritage Tour</strong>. We offer sanitized <strong>9, 12 & 16 seater Force Urbania on rent in Delhi</strong> equipped with pushback leather seats, panoramic windows, ambient lighting, and expert mountain/highway chauffeurs.
                 </p>
                 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-                    <span class="seo-badge-tag"><i class="fas fa-tag"></i> <strong>luxury Urbania on rent in delhi</strong></span>
+                    <span class="seo-badge-tag"><i class="fas fa-tag"></i> <strong>luxury Force Urbania on rent in delhi</strong></span>
                     <span class="seo-badge-tag"><i class="fas fa-tag"></i> <strong>Urbania for group tour in delhi</strong></span>
                     <span class="seo-badge-tag"><i class="fas fa-tag"></i> <strong>Urbania for outstation in delhi</strong></span>
                     <span class="seo-badge-tag"><i class="fas fa-tag"></i> <strong>12 seater urbania hire delhi</strong></span>

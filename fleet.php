@@ -3,7 +3,7 @@ require_once __DIR__ . '/includes/seo-blocks.php';
 
 $page_title = 'Urbania Fleet & Price per KM | Normal & Luxury Maharaja 9, 12, 16 Seater Delhi';
 $page_description = 'Compare our luxury Force Urbania fleet in Delhi: 9, 12 & 16 seater Urbania on rent from ₹40/km with driver, pushback seats, WiFi & AC. See prices, features and what is included.';
-$page_keywords = 'urbania fleet delhi, 9 seater urbania on rent delhi, 12 seater urbania on rent delhi, 16 seater urbania on rent delhi, urbania rent per km delhi, urbania price in delhi, force urbania hire with driver, urbania vs tempo traveller';
+$page_keywords = 'urbania fleet delhi, 9 seater force urbania on rent delhi, 12 seater force urbania on rent delhi, 16 seater force urbania on rent delhi, urbania rent per km delhi, urbania price in delhi, force urbania hire with driver, urbania vs tempo traveller';
 $extra_css = ['css/home.css', 'css/pages.css'];
 $hide_breadcrumb = true;
 include 'header.php';

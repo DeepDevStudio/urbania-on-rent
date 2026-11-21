@@ -7,7 +7,7 @@ $post = $blogs[$post_slug];
 $dest = $post['dest'];
 $dest_lc = strtolower($dest);
 
-$page_keywords = "delhi to {$dest_lc} road trip, delhi to {$dest_lc} by road, delhi to {$dest_lc} urbania, urbania on rent delhi to {$dest_lc}, {$dest_lc} trip from delhi, luxury urbania on rent in delhi, urbania with driver for {$dest_lc}";
+$page_keywords = "delhi to {$dest_lc} road trip, delhi to {$dest_lc} by road, delhi to {$dest_lc} urbania, force urbania on rent delhi to {$dest_lc}, {$dest_lc} trip from delhi, luxury force urbania on rent in delhi, urbania with driver for {$dest_lc}";
 $extra_css = ['css/home.css', 'css/pages.css'];
 $hide_breadcrumb = true;
 $og_type = 'article';

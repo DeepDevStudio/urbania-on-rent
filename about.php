@@ -1,9 +1,9 @@
 <?php
 require __DIR__ . '/includes/site-data.php';
 
-$page_title = 'About Us | Trusted Urbania on Rent in Delhi NCR Since 2018';
+$page_title = 'About Us | Trusted Force Urbania on Rent in Delhi NCR Since 2018';
 $page_description = 'Urbania on Rent Delhi is a trusted Force Urbania rental company in Delhi NCR since 2018. Luxury 9, 12 & 16 seater Urbania on rent with verified chauffeurs for family tours, weddings & corporate travel.';
-$page_keywords = 'about urbania on rent delhi, urbania rental company delhi, trusted urbania on rent delhi ncr, force urbania hire delhi, luxury urbania with driver delhi, urbania on rent gurgaon, urbania on rent noida';
+$page_keywords = 'about force urbania on rent delhi, urbania rental company delhi, trusted force urbania on rent delhi ncr, force urbania hire delhi, luxury urbania with driver delhi, urbania on rent gurgaon, urbania on rent noida';
 $extra_css = ['css/home.css', 'css/pages.css'];
 $hide_breadcrumb = true;
 include 'header.php';
@@ -33,7 +33,7 @@ include 'header.php';
                 <span class="hp-kicker">Our Story</span>
                 <h2>Redefining group travel in Delhi NCR</h2>
                 <p class="pg-lede">At <strong>Urbania on Rent Delhi</strong>, our mission is simple: make group travel feel like first class. We believe every journey should be an experience, not just a commute — whether it's a weekend in the hills, a family wedding or a client offsite.</p>
-                <p class="pg-lede">We started with a vision to bridge the gap between luxury and accessibility. Today we are one of the most trusted names for <strong>luxury Urbania on rent in Delhi</strong>, known for spotless vehicles, courteous chauffeurs and honest per-km pricing.</p>
+                <p class="pg-lede">We started with a vision to bridge the gap between luxury and accessibility. Today we are one of the most trusted names for <strong>luxury Force Urbania on rent in Delhi</strong>, known for spotless vehicles, courteous chauffeurs and honest per-km pricing.</p>
                 <div class="pg-stats">
                     <div><strong>2018</strong><span>Established</span></div>
                     <div><strong>50+</strong><span>Luxury vans</span></div>
@@ -96,7 +96,7 @@ include 'header.php';
                 <p class="pg-lede" style="margin-top:16px">Doorstep pickup from anywhere in the National Capital Region, with outstation trips to every major destination in North India.</p>
             </div>
             <div class="pg-areas reveal">
-                <span><i class="fas fa-location-dot"></i> Urbania on rent in Delhi</span>
+                <span><i class="fas fa-location-dot"></i> Force Urbania on rent in Delhi</span>
                 <span><i class="fas fa-location-dot"></i> Urbania on rent in Gurgaon</span>
                 <span><i class="fas fa-location-dot"></i> Urbania on rent in Noida</span>
                 <span><i class="fas fa-location-dot"></i> Urbania on rent in Faridabad</span>

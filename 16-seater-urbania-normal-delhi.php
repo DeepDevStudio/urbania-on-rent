@@ -4,9 +4,9 @@ require_once __DIR__ . '/includes/seo-blocks.php';
 $v = fleet_by_slug('16-seater');
 
 $lp = [
-    'title'       => '16 Seater Urbania on Rent in Delhi NCR | Normal 2x1 @ ₹' . $v['price'] . '/km',
+    'title'       => '16 Seater Force Urbania on Rent in Delhi NCR | Normal 2x1 @ ₹' . $v['price'] . '/km',
     'description' => 'Book the 16 seater Force Urbania Normal in Delhi NCR at ₹' . $v['price'] . '/km — 2x1 pushback seats, walk-through aisle, entertainment & charging points. Ideal for big group tours & pilgrimages. Call 7290885949.',
-    'keywords'    => '16 seater urbania on rent delhi, 16 seater urbania normal delhi, 16 seater urbania price delhi, 16 seater urbania per km, 2x1 urbania delhi, 16 seater urbania gurgaon noida',
+    'keywords'    => '16 seater force urbania on rent delhi, 16 seater urbania normal delhi, 16 seater urbania price delhi, 16 seater urbania per km, 2x1 urbania delhi, 16 seater urbania gurgaon noida',
     'hero_img'    => $v['img'],
     'crumbs'      => [['Normal Urbania', 'force-urbania-normal-on-rent-delhi.php'], ['16 Seater Urbania', null]],
     'eyebrow'     => 'Normal Urbania · 16 Seater',

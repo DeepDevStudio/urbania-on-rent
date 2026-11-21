@@ -40,7 +40,7 @@ $blogs = [
     'delhi-to-manali'    => ['title' => 'Escaping to the Hills: Delhi to Manali', 'dest' => 'Manali', 'cat' => 'hill', 'tag' => 'Himalayas', 'region' => 'Himachal', 'dist' => '530 km', 'time' => '11 hrs', 'read' => 7, 'route' => 'delhi-to-manali-urbania.php',
         'excerpt' => 'Atal Tunnel, Solang snow points and smooth mountain hairpins in a luxury Urbania rental built for the hills.'],
     'delhi-to-shimla'    => ['title' => 'The Queen of Hills: Delhi to Shimla Guide', 'dest' => 'Shimla', 'cat' => 'hill', 'tag' => 'Himalayas', 'region' => 'Himachal', 'dist' => '340 km', 'time' => '7 hrs', 'read' => 5, 'route' => 'delhi-to-shimla-urbania.php',
-        'excerpt' => 'Colonial charm on Mall Road, Kufri adventure parks, and booking an AC Urbania on rent in Delhi for the drive up.'],
+        'excerpt' => 'Colonial charm on Mall Road, Kufri adventure parks, and booking an AC Force Urbania on rent in Delhi for the drive up.'],
     'delhi-to-rishikesh' => ['title' => 'Spiritual & Adventure: Delhi to Rishikesh', 'dest' => 'Rishikesh', 'cat' => 'spiritual', 'tag' => 'Adventure', 'region' => 'Uttarakhand', 'dist' => '240 km', 'time' => '4.5 hrs', 'read' => 5, 'route' => 'delhi-to-rishikesh-urbania.php',
         'excerpt' => 'Ganga rafting, cliff jumping and yoga ashrams — plus a reliable Urbania with driver in Delhi for weekend group trips.'],
     'delhi-to-haridwar'  => ['title' => 'Divine Pilgrimage: Delhi to Haridwar', 'dest' => 'Haridwar', 'cat' => 'spiritual', 'tag' => 'Pilgrimage', 'region' => 'Uttarakhand', 'dist' => '220 km', 'time' => '4 hrs', 'read' => 4, 'route' => 'delhi-to-haridwar-urbania.php',

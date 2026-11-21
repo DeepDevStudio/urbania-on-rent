@@ -7,7 +7,7 @@ $from = fleet_min_price($vehicles);
 $lp = [
     'title'       => 'Luxury Maharaja Force Urbania on Rent Delhi NCR | 9 & 12 Seater',
     'description' => 'Hire Luxury Maharaja Force Urbania in Delhi NCR — 9 & 12 seater with extra-wide recliner seats, Smart TV, WiFi & mood lighting from ₹' . $from . '/km. For weddings, corporate & VIP travel. Call 7290885949.',
-    'keywords'    => 'luxury urbania on rent delhi, maharaja urbania on rent delhi, premium urbania delhi, 9 seater luxury urbania maharaja delhi, 12 seater maharaja urbania delhi, urbania with recliner seats delhi, luxury urbania for wedding delhi, luxury urbania corporate delhi ncr',
+    'keywords'    => 'luxury force urbania on rent delhi, maharaja force urbania on rent delhi, premium urbania delhi, 9 seater luxury urbania maharaja delhi, 12 seater maharaja urbania delhi, urbania with recliner seats delhi, luxury urbania for wedding delhi, luxury urbania corporate delhi ncr',
     'hero_img'    => 'images/urbania-1.webp',
     'crumbs'      => [['Our Fleet', 'fleet.php'], ['Luxury Maharaja Urbania', null]],
     'eyebrow'     => 'Luxury Maharaja Force Urbania · Delhi NCR',
@@ -33,7 +33,7 @@ $lp = [
     ],
     'faq_h2'      => 'Luxury Maharaja Urbania questions',
     'faqs'        => [
-        ['q' => 'What is the price of a Luxury Maharaja Urbania on rent in Delhi?',
+        ['q' => 'What is the price of a Luxury Maharaja Force Urbania on rent in Delhi?',
          'a' => 'The 9 seater and 12 seater Luxury Maharaja Urbania start at ₹' . $from . '/km in Delhi NCR. Fuel, toll tax, state tax and driver allowance are included; parking, GST and night charges are extra.'],
         ['q' => 'What features does the Maharaja Urbania have?',
          'a' => 'Extra-wide Maharaja seats or reclining captain seats with armrests, Smart TV, premium WiFi and entertainment, mood lighting and designer interiors. The 9 seater also has a privacy partition and mini bar.'],

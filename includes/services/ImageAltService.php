@@ -1,7 +1,7 @@
 <?php
 /**
  * ImageAltService - Centralized Image ALT SEO & Accessibility Optimization Service
- * Urbania on Rent Delhi NCR
+ * Force Urbania on Rent Delhi NCR
  *
  * Implements deterministic, landmark-accurate, and seater-specific ALT text generation
  * across static pages, dynamic route pages, fleet cards, and tour packages.
@@ -163,7 +163,7 @@ class ImageAltService {
         if (isset(self::$fleetSeaterMap[$seats])) {
             return self::$fleetSeaterMap[$seats];
         }
-        return $seats . ' seater luxury Urbania on rent in Delhi for group travel';
+        return $seats . ' seater luxury Force Urbania on rent in Delhi for group travel';
     }
 
     /**

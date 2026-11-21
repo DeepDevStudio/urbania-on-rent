@@ -6,7 +6,7 @@ $files = scandir($dir);
 $skip_files = ['header.php', 'footer.php', 'about.php', 'contact.php', 'services.php', 'fleet.php', 'testimonials.php', 'add_urbania_images.php', 'generate_reviews.php', 'cleanup_css.php', 'theme_update.php', 'update_pages.php', 'update_whatsapp.php', 'update_seo_keywords.php'];
 
 $seo_keywords = [
-    'Urbania on rent in delhi',
+    'Force Urbania on rent in delhi',
     'Urbania hire in delhi',
     'Urbania rental in delhi',
     'Urbania for rent in delhi',
@@ -15,8 +15,8 @@ $seo_keywords = [
     'Urbania rent delhi',
     'hire Urbania in delhi',
     'Urbania rental delhi ncr',
-    'luxury Urbania on rent in delhi',
-    'Ac Urbania on rent in delhi',
+    'luxury Force Urbania on rent in delhi',
+    'Ac Force Urbania on rent in delhi',
     'Urbania with driver in delhi',
     'Urbania for outstation in delhi',
     'Urbania for group tour in delhi',
@@ -58,7 +58,7 @@ foreach ($files as $file) {
             return $matches[0];
         }, $content);
 
-        $content = preg_replace('/Force Urbania/i', '<strong>luxury Urbania on rent in delhi</strong>', $content, 1);
+        $content = preg_replace('/Force Urbania/i', '<strong>luxury Force Urbania on rent in delhi</strong>', $content, 1);
         
         file_put_contents($path, $content);
         echo "Updated $file\n";

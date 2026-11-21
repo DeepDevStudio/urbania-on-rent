@@ -3,7 +3,7 @@ require __DIR__ . '/includes/site-data.php';
 
 $page_title = 'Road Trip Guides from Delhi | Travel Blog | Urbania on Rent Delhi';
 $page_description = 'Road trip guides from Delhi to Jaipur, Agra, Manali, Shimla, Rishikesh, Haridwar, Amritsar, Udaipur, Nainital, Mussoorie, Varanasi & Char Dham — routes, stops and tips for travelling by luxury Urbania on rent.';
-$page_keywords = 'delhi road trip guide, weekend getaways from delhi, delhi to jaipur by road, delhi to manali road trip, char dham yatra from delhi, urbania on rent for outstation, luxury urbania on rent in delhi, urbania travel blog';
+$page_keywords = 'delhi road trip guide, weekend getaways from delhi, delhi to jaipur by road, delhi to manali road trip, char dham yatra from delhi, urbania on rent for outstation, luxury force urbania on rent in delhi, urbania travel blog';
 $extra_css = ['css/home.css', 'css/pages.css'];
 $hide_breadcrumb = true;
 include 'header.php';
@@ -77,9 +77,9 @@ $counts = array_count_values(array_column($rest, 'cat'));
                 <h2>Popular Urbania rental searches in Delhi NCR</h2>
                 <p>Planning a group trip? These are the routes and rental options travellers ask us about most.</p>
                 <div class="hp-packages">
-                    <a href="index.php">Urbania on rent in Delhi</a>
-                    <a href="fleet.php">Luxury Urbania on rent in Delhi</a>
-                    <a href="fleet.php">12 seater Urbania on rent Delhi</a>
+                    <a href="index.php">Force Urbania on rent in Delhi</a>
+                    <a href="fleet.php">Luxury Force Urbania on rent in Delhi</a>
+                    <a href="fleet.php">12 seater Force Urbania on rent Delhi</a>
                     <a href="fleet.php">16 seater Urbania hire Delhi</a>
                     <a href="fleet.php">9 seater Urbania Delhi</a>
                     <a href="services.php">Urbania for outstation from Delhi</a>

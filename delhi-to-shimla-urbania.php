@@ -1,5 +1,5 @@
 <?php
-$page_keywords = 'Delhi to Shimla Urbania, Delhi to Shimla Urbania on Rent, Urbania on Rent Delhi to Shimla, 12 Seater Urbania on Rent Delhi to Shimla, 16 Seater Urbania on Rent Delhi to Shimla, Luxury Urbania for Shimla, Shimla Urbania Hire from Delhi, Urbania Booking Delhi to Shimla, Urbania on Rent in Delhi, Force Urbania on Rent Delhi, Urbania with Driver on Rent, Urbania for Outstation Trip, Urbania for Family Trip, Urbania for Group Tour';
+$page_keywords = 'Delhi to Shimla Urbania, Delhi to Shimla Urbania on Rent, Force Urbania on Rent Delhi to Shimla, 12 Seater Force Urbania on Rent Delhi to Shimla, 16 Seater Force Urbania on Rent Delhi to Shimla, Luxury Urbania for Shimla, Shimla Urbania Hire from Delhi, Urbania Booking Delhi to Shimla, Force Urbania on Rent in Delhi, Force Urbania on Rent Delhi, Urbania with Driver on Rent, Urbania for Outstation Trip, Urbania for Family Trip, Urbania for Group Tour';
 $page_title = 'Delhi to Shimla Urbania on Rent | 9, 12 & 16 Seater Luxury Urbania';
 $page_description = 'Book Delhi to Shimla Urbania on rent with driver. Luxury 9, 12 & 16 seater Force Urbania available for outstation trips, family tours & group travel. Call 7290885949.';
 include 'header.php';

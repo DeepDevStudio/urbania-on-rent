@@ -6,7 +6,7 @@ require_once __DIR__ . '/site-data.php';
 // All Normal / Luxury landing pages, for internal linking (homepage, footer, related links).
 function landing_links() {
     return [
-        'force-urbania-normal-on-rent-delhi.php'          => 'Normal Urbania on Rent Delhi',
+        'force-urbania-normal-on-rent-delhi.php'          => 'Normal Force Urbania on Rent Delhi',
         'force-urbania-luxury-maharaja-on-rent-delhi.php' => 'Luxury Maharaja Urbania Delhi',
         '9-seater-urbania-maharaja-delhi.php'             => '9 Seater Urbania Maharaja',
         '12-seater-urbania-luxury-delhi.php'              => '12 Seater Luxury Urbania',
@@ -163,7 +163,7 @@ function render_ncr_areas($heading_tag = 'h2') {
     </div>
     <div class="hp-seo-copy reveal">
         <?php foreach ($ncr_areas as $city => $c): ?>
-        <p><strong><?php echo $c['url'] ? '<a href="' . $c['url'] . '">Urbania on rent in ' . $city . '</a>' : 'Urbania on rent in ' . $city; ?>:</strong> <?php echo $c['areas']; ?>.</p>
+        <p><strong><?php echo $c['url'] ? '<a href="' . $c['url'] . '">Force Urbania on rent in ' . $city . '</a>' : 'Force Urbania on rent in ' . $city; ?>:</strong> <?php echo $c['areas']; ?>.</p>
         <?php endforeach; ?>
         <p>Free doorstep pickup anywhere in Delhi, Gurgaon, Noida, Greater Noida, Ghaziabad and Faridabad — for local use, airport transfers and outstation trips.</p>
     </div>

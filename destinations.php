@@ -1,6 +1,6 @@
 <?php
 // destinations.php - Master Multi-Origin Destination Hub
-// Urbania on Rent Delhi NCR
+// Force Urbania on Rent Delhi NCR
 
 require_once __DIR__ . '/includes/site-data.php';
 require_once __DIR__ . '/includes/destinations-data.php';

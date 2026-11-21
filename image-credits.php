@@ -3,7 +3,7 @@ require __DIR__ . '/includes/site-data.php';
 
 $page_title = 'Photo Credits | Urbania on Rent Delhi';
 $page_description = 'Credits and licences for the destination photos used on Urbania on Rent Delhi, sourced from Wikimedia Commons.';
-$page_keywords = 'urbania on rent delhi photo credits, wikimedia commons';
+$page_keywords = 'force urbania on rent delhi photo credits, wikimedia commons';
 $extra_css = ['css/home.css', 'css/pages.css'];
 $hide_breadcrumb = true;
 include 'header.php';

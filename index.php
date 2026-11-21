@@ -54,7 +54,7 @@ $custom_primary_meta = <<<HTML
     <title>Force Urbania on Rent in Delhi NCR | 9 to 20 Seater Luxury Van Hire</title>
     <meta name="title" content="Force Urbania on Rent in Delhi | 9 to 20 Seater Luxury Van Hire">
     <meta name="description" content="Book luxury Force Urbania on rent in Delhi NCR directly from fleet service provider. 9, 10, 11, 12, 16, 17, 20 &amp; Maharaja seater with verified drivers for outstation &amp; local trips.">
-    <meta name="keywords" content="Urbania on rent in Delhi, Force Urbania on rent in Delhi, Force Urbania luxury van rental Delhi, Urbania hire in Delhi NCR, Urbania booking in Delhi, Luxury Force Urbania rental Delhi, Best Urbania rental service in Delhi, 9 seater Force Urbania on rent in Delhi, 12 seater luxury Urbania on rent in Delhi, 16 seater Urbania on rent in Delhi, 20 seater Urbania rental in Delhi, Maharaja seater Urbania on rent in Delhi, Outstation Urbania on rent from Delhi, Force Urbania per km rate in Delhi">
+    <meta name="keywords" content="Force Urbania on rent in Delhi, Force Urbania on rent in Delhi, Force Urbania luxury van rental Delhi, Urbania hire in Delhi NCR, Urbania booking in Delhi, Luxury Force Urbania rental Delhi, Best Urbania rental service in Delhi, 9 seater Force Urbania on rent in Delhi, 12 seater luxury Force Urbania on rent in Delhi, 16 seater Force Urbania on rent in Delhi, 20 seater Urbania rental in Delhi, Maharaja seater Force Urbania on rent in Delhi, Outstation Urbania on rent from Delhi, Force Urbania per km rate in Delhi">
     <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
     <meta name="author" content="Urbania on Rent Delhi">
     <link rel="canonical" href="https://urbaniaonrentdelhi.co.in/">
@@ -98,7 +98,7 @@ $routes = [
 ];
 
 $faqs = [
-    ['q' => 'What is the per-km rate for Urbania on rent in Delhi?',
+    ['q' => 'What is the per-km rate for Force Urbania on rent in Delhi?',
      'a' => 'Our rates start at ₹' . fleet_by_slug('16-seater')['price'] . '/km for the 16 Seater Normal Urbania and ₹' . fleet_by_slug('9-seater')['price'] . '/km for the 9 Seater Urbania (Maharaja) and ₹' . fleet_by_slug('12-seater')['price'] . '/km for the 12 Seater Urbania (Maharaja). Fuel, toll tax, state tax and driver allowance are included; parking, GST and night charges (10 PM – 6 AM) are extra. We share the full estimate before you book.'],
     ['q' => 'What is the difference between Normal and Luxury Maharaja Urbania?',
      'a' => 'The Normal Urbania is our 16 seater with 2x1 pushback seats — the best value for big group tours, pilgrimages and hill trips. The Luxury Maharaja Urbania (9 and 12 seater) has extra-wide Maharaja or reclining captain seats, Smart TV, premium WiFi, mood lighting and designer interiors — ideal for weddings, corporate guests and VIP family travel.'],
@@ -128,9 +128,9 @@ $faqs = array_merge($faqs, home_seo_faqs());
         </div>
         <div class="container hp-hero-inner">
             <div class="hp-hero-copy">
-                <span class="hp-eyebrow"><i class="fas fa-crown"></i> Urbania on Rent Delhi NCR</span>
+                <span class="hp-eyebrow"><i class="fas fa-crown"></i> Force Urbania on Rent Delhi NCR</span>
                 <h1>Force Urbania on Rent in Delhi<br><em>Normal &amp; Luxury Maharaja.</em></h1>
-                <p class="hp-hero-lead">Book <strong>16 seater Normal</strong> &amp; <strong>9 / 12 seater Luxury Maharaja Urbania on rent in Delhi NCR</strong> with driver — for family trips, group tours, weddings, corporate tours and outstation travel from Delhi, Gurgaon, Noida, Ghaziabad &amp; Faridabad at transparent per-km rates.</p>
+                <p class="hp-hero-lead">Book <strong>16 seater Normal</strong> &amp; <strong>9 / 12 seater Luxury Maharaja Force Urbania on rent in Delhi NCR</strong> with driver — for family trips, group tours, weddings, corporate tours and outstation travel from Delhi, Gurgaon, Noida, Ghaziabad &amp; Faridabad at transparent per-km rates.</p>
                 <div class="hp-hero-ctas">
                     <a href="#booking" class="hp-btn hp-btn-gold"><i class="fas fa-calendar-check"></i> Get Instant Quote</a>
                     <a href="https://wa.me/917290885949?text=Hi,%20I%20want%20to%20book%20a%20luxury%20Urbania%20in%20Delhi" target="_blank" rel="noopener" class="hp-btn hp-btn-glass"><i class="fab fa-whatsapp"></i> WhatsApp Us</a>
@@ -337,7 +337,7 @@ $faqs = array_merge($faqs, home_seo_faqs());
                 </div>
             </div>
             <div class="hp-why-copy reveal">
-                <span class="hp-kicker">Why Book Urbania on Rent Delhi</span>
+                <span class="hp-kicker">Why Book Force Urbania on Rent Delhi</span>
                 <h2>Why Book Urbania with Us?</h2>
                 <p>We are a Delhi-based team that only runs Force Urbania — so every 12 seater and 16 seater Urbania, driver and process is tuned for premium group travel.</p>
                 <div class="hp-why-list">

@@ -8,9 +8,9 @@
     
     <!-- Primary Meta Tags -->
     <?php if (!empty($custom_primary_meta)): echo $custom_primary_meta . "\n"; else: ?>
-    <title><?php echo isset($page_title) ? $page_title : 'Urbania on Rent in Delhi | 9, 12 & 16 Seater Luxury Urbania Hire'; ?></title>
-    <meta name="description" content="<?php echo isset($page_description) ? $page_description : 'Book Urbania on Rent in Delhi for local and outstation trips. 9, 12 & 16 seater luxury Force Urbania available with experienced driver for family tours, outstation trips, weddings and corporate travel. Call 7290885949.'; ?>">
-    <meta name="keywords" content="<?php echo isset($page_keywords) ? htmlspecialchars($page_keywords) : 'Urbania on rent in delhi, luxury Urbania on rent in delhi, 12 seater urbania hire delhi, 16 seater urbania rent delhi, force urbania rental delhi ncr, outstation urbania delhi, urbania with driver delhi'; ?>">
+    <title><?php echo isset($page_title) ? $page_title : 'Force Urbania on Rent in Delhi | 9, 12 & 16 Seater Luxury Urbania Hire'; ?></title>
+    <meta name="description" content="<?php echo isset($page_description) ? $page_description : 'Book Force Urbania on Rent in Delhi for local and outstation trips. 9, 12 & 16 seater luxury Force Urbania available with experienced driver for family tours, outstation trips, weddings and corporate travel. Call 7290885949.'; ?>">
+    <meta name="keywords" content="<?php echo isset($page_keywords) ? htmlspecialchars($page_keywords) : 'Force Urbania on rent in delhi, luxury Force Urbania on rent in delhi, 12 seater urbania hire delhi, 16 seater urbania rent delhi, force urbania rental delhi ncr, outstation urbania delhi, urbania with driver delhi'; ?>">
     <?php if (empty($canonical_url)) { $canonical_url = 'https://urbaniaonrentdelhi.co.in/' . (basename($_SERVER['PHP_SELF']) === 'index.php' ? '' : basename($_SERVER['PHP_SELF'])); } ?>
     <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <meta name="author" content="Urbania on Rent Delhi">
@@ -27,13 +27,13 @@
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="<?php echo isset($og_type) ? $og_type : 'website'; ?>">
     <meta property="og:url" content="<?php echo $canonical_url; ?>">
-    <meta property="og:title" content="<?php echo isset($page_title) ? $page_title : 'Urbania on Rent in Delhi | Luxury Van Hire'; ?>">
+    <meta property="og:title" content="<?php echo isset($page_title) ? $page_title : 'Force Urbania on Rent in Delhi | Luxury Van Hire'; ?>">
     <meta property="og:description" content="<?php echo isset($page_description) ? $page_description : 'Book luxury 9, 12 & 16 seater Force Urbania on rent in Delhi NCR with verified chauffeurs at best per-km rates.'; ?>">
     <meta property="og:image" content="https://urbaniaonrentdelhi.co.in/<?php echo isset($og_image) ? $og_image : 'images/urbania-rent.webp'; ?>">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:title" content="<?php echo isset($page_title) ? $page_title : 'Urbania on Rent in Delhi | Luxury Van Hire'; ?>">
+    <meta property="twitter:title" content="<?php echo isset($page_title) ? $page_title : 'Force Urbania on Rent in Delhi | Luxury Van Hire'; ?>">
     <meta property="twitter:description" content="<?php echo isset($page_description) ? $page_description : 'Book luxury Force Urbania in Delhi with chauffeur for outstation tours & corporate trips.'; ?>">
     <meta property="twitter:image" content="https://urbaniaonrentdelhi.co.in/<?php echo isset($og_image) ? $og_image : 'images/urbania-rent.webp'; ?>">
     <?php endif; ?>

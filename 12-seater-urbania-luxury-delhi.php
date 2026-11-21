@@ -4,9 +4,9 @@ require_once __DIR__ . '/includes/seo-blocks.php';
 $v = fleet_by_slug('12-seater');
 
 $lp = [
-    'title'       => '12 Seater Luxury Maharaja Urbania on Rent Delhi | ₹' . $v['price'] . '/km',
+    'title'       => '12 Seater Luxury Maharaja Force Urbania on Rent Delhi | ₹' . $v['price'] . '/km',
     'description' => 'Hire the 12 seater Luxury Maharaja Force Urbania in Delhi NCR at ₹' . $v['price'] . '/km — reclining captain seats with armrests, premium entertainment & designer interiors. Weddings, events & group tours. Call 7290885949.',
-    'keywords'    => '12 seater urbania on rent delhi, 12 seater luxury urbania delhi, 12 seater maharaja urbania delhi, 12 seater urbania price per km delhi, urbania traveller 12 seater rent delhi, 12 seater urbania for wedding delhi',
+    'keywords'    => '12 seater force urbania on rent delhi, 12 seater luxury urbania delhi, 12 seater maharaja urbania delhi, 12 seater urbania price per km delhi, urbania traveller 12 seater rent delhi, 12 seater urbania for wedding delhi',
     'hero_img'    => $v['img'],
     'crumbs'      => [['Luxury Maharaja Urbania', 'force-urbania-luxury-maharaja-on-rent-delhi.php'], ['12 Seater Luxury Urbania', null]],
     'eyebrow'     => 'Luxury Maharaja · 12 Seater',
@@ -33,7 +33,7 @@ $lp = [
         ['q' => 'Is the 12 seater Urbania available for weddings in Gurgaon and Noida?',
          'a' => 'Yes. We serve all of Delhi NCR — Delhi, Gurgaon, Noida, Greater Noida, Ghaziabad and Faridabad — with doorstep pickup.'],
     ],
-    'schema_name' => '12 Seater Luxury Maharaja Urbania on Rent in Delhi NCR',
+    'schema_name' => '12 Seater Luxury Maharaja Force Urbania on Rent in Delhi NCR',
     'cta_h2'      => 'Book the <em>12 seater Luxury Urbania</em>',
     'vehicles'    => [$v],
 ];
