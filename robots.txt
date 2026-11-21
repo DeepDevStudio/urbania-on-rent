@@ -1,0 +1,55 @@
+# robots.txt for https://urbaniaonrentdelhi.co.in
+# All search engines and AI crawlers are welcome to crawl every public page.
+# Only internal includes, maintenance scripts and data files are blocked.
+
+User-agent: Googlebot
+User-agent: Googlebot-Image
+User-agent: Bingbot
+User-agent: Slurp
+User-agent: DuckDuckBot
+User-agent: YandexBot
+User-agent: Baiduspider
+User-agent: Applebot
+User-agent: ClaudeBot
+User-agent: Claude-User
+User-agent: Claude-SearchBot
+User-agent: anthropic-ai
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: meta-externalagent
+User-agent: Amazonbot
+User-agent: DuckAssistBot
+User-agent: MistralAI-User
+User-agent: cohere-ai
+User-agent: CCBot
+User-agent: *
+Disallow: /includes/
+Disallow: /config/
+Disallow: /__pycache__/
+Disallow: /header.php
+Disallow: /footer.php
+Disallow: /route.php
+Disallow: /add_urbania_images.php
+Disallow: /cleanup_css.php
+Disallow: /generate_reviews.php
+Disallow: /replace_toyota.php
+Disallow: /theme_update.php
+Disallow: /update_pages.php
+Disallow: /update_seo_keywords.php
+Disallow: /update_whatsapp.php
+Disallow: /*.py$
+Disallow: /*.json$
+Disallow: /innovacrysta_
+Allow: /llms.txt
+Allow: /images/
+Allow: /css/
+Allow: /
+
+# Sitemaps
+Sitemap: https://urbaniaonrentdelhi.co.in/sitemap_index.xml
+Sitemap: https://urbaniaonrentdelhi.co.in/sitemap.xml

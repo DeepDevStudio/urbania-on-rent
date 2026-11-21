@@ -1,0 +1,4279 @@
+[
+  {
+    "destination": "Ajmer",
+    "state": "Rajasthan",
+    "subject": "Dargah Sharif & Ana Sagar Lake Scenic Promenade",
+    "file": "ajmer-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Alsisar",
+    "state": "Rajasthan",
+    "subject": "Known for its magnificent Alsisar Fort",
+    "file": "alsisar-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Alwar",
+    "state": "Rajasthan",
+    "subject": "Bala Quila Fort & Siliserh Lake Palace",
+    "file": "alwar-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Abohar",
+    "state": "Punjab",
+    "subject": "Historic Panj Pir Shrine & Punjab Kinnow Orchards",
+    "file": "abohar-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Aler",
+    "state": "Telangana",
+    "subject": "Kolanupaka Jain Temple & Bhongir Fort",
+    "file": "aler-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Amethi",
+    "state": "Uttar Pradesh",
+    "subject": "Nandmahar Dham & Historic Awadh Heritage Forts",
+    "file": "amethi-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Agra",
+    "state": "Uttar Pradesh",
+    "subject": "Taj Mahal & Agra Fort UNESCO World Heritage",
+    "file": "agra-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Amb (HP)",
+    "state": "Himachal Pradesh",
+    "subject": "Known for the ancient Amb Temple",
+    "file": "amb-himachal-pradesh-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Amritsar",
+    "state": "Punjab",
+    "subject": "Sri Harmandir Sahib Golden Temple & Amrit Sarovar",
+    "file": "amritsar-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Ambala",
+    "state": "Haryana",
+    "subject": "Ambala Shivalik Foothills & Historic Heritage",
+    "file": "ambala-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Adampur",
+    "state": "Punjab",
+    "subject": "The town features the historic Adampur Fort",
+    "file": "adampur-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Achhnera",
+    "state": "Uttar Pradesh",
+    "subject": "It is known for the historic Achhnera Fort",
+    "file": "achhnera-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Aligarh",
+    "state": "Uttar Pradesh",
+    "subject": "Aligarh Historic Temples & Cultural Heritage",
+    "file": "aligarh-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Allahabad",
+    "state": "Uttar Pradesh",
+    "subject": "Allahabad Historic Temples & Cultural Heritage",
+    "file": "allahabad-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Amroha",
+    "state": "Uttar Pradesh",
+    "subject": "The town features the ancient Amroha Fort",
+    "file": "amroha-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Abhaneri",
+    "state": "Rajasthan",
+    "subject": "Abhaneri Heritage Palaces & Historic Rajasthan Citadel",
+    "file": "abhaneri-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Ahmedpur",
+    "state": "Haryana",
+    "subject": "The town features the historic Ahmedpur Fort",
+    "file": "ahmedpur-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Almora",
+    "state": "Uttarakhand",
+    "subject": "Known for its ancient Kasar Devi Temple",
+    "file": "almora-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Akbarpur",
+    "state": "Uttar Pradesh",
+    "subject": "The town features the historic Akbarpur Fort",
+    "file": "akbarpur-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Ambaji",
+    "state": "Gujarat",
+    "subject": "Ambaji Temple",
+    "file": "ambaji-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Anand (Rajasthan)",
+    "state": "Rajasthan",
+    "subject": "Anand Dham Sacred Shrine & Tribal Heritage Hills",
+    "file": "anand-rajasthan-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Anandpur Sahib",
+    "state": "Punjab",
+    "subject": "Anandpur Sahib Historic Gurudwara & Lush Countryside",
+    "file": "anandpur-sahib-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Anantnag",
+    "state": "Jammu & Kashmir",
+    "subject": "Anantnag Historic Temples & Cultural Heritage",
+    "file": "anantnag-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Aonla",
+    "state": "Uttar Pradesh",
+    "subject": "The town features the ancient Aonla Fort",
+    "file": "aonla-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Antu",
+    "state": "Uttar Pradesh",
+    "subject": "Chandikan Devi Temple & Historic Morva Riverfront",
+    "file": "antu-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Ashok Nagar",
+    "state": "Madhya Pradesh",
+    "subject": "The city features the ancient Ashoknagar Fort",
+    "file": "ashok-nagar-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Atal Nagar",
+    "state": "North India",
+    "subject": "Atal Nagar Historic Temples & Cultural Heritage",
+    "file": "atal-nagar-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Anupshahar",
+    "state": "Uttar Pradesh",
+    "subject": "The town features the ancient Anupshahar Fort",
+    "file": "anupshahar-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Auraiya",
+    "state": "Uttar Pradesh",
+    "subject": "The town features the ancient Auraiya Fort",
+    "file": "auraiya-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Atarra",
+    "state": "Uttar Pradesh",
+    "subject": "Chitrakoot Sacred Hills & Vindhya Temple Circuit",
+    "file": "atarra-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Aut",
+    "state": "Himachal Pradesh",
+    "subject": "Known for its ancient Aut Fort",
+    "file": "aut-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Ayodhya",
+    "state": "Uttar Pradesh",
+    "subject": "Shri Ram Janmabhoomi Mandir & Saryu River Ghats",
+    "file": "ayodhya-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Babaganj",
+    "state": "Uttar Pradesh",
+    "subject": "Awadh Heritage & Terai Wildlife Landscape",
+    "file": "babaganj-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Auli",
+    "state": "Uttarakhand",
+    "subject": "Snow-Clad Himalayan Ski Slopes & Nanda Devi View",
+    "file": "auli-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Awagarh",
+    "state": "Uttar Pradesh",
+    "subject": "The town features the ancient Awagarh Fort",
+    "file": "awagarh-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Badrinath",
+    "state": "Uttarakhand",
+    "subject": "Badrinath Temple & Alaknanda River Neelkanth Peak",
+    "file": "badrinath-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Bachhrawan",
+    "state": "Uttar Pradesh",
+    "subject": "The town features the ancient Bachhrawan Fort",
+    "file": "bachhrawan-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Bageshwar",
+    "state": "Uttarakhand",
+    "subject": "Bagnath Temple & Saryu Gomti River Confluence",
+    "file": "bageshwar-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Badaun",
+    "state": "Uttar Pradesh",
+    "subject": "The city features the ancient Badaun Fort",
+    "file": "badaun-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Baddi",
+    "state": "Himachal Pradesh",
+    "subject": "Shivalik Pine Foothills & Himalayan Gateway",
+    "file": "baddi-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Baghpat",
+    "state": "Uttar Pradesh",
+    "subject": "Historic Pura Mahadev Temple & Yamuna Plain",
+    "file": "baghpat-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Bagidora",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Bagidora Fort",
+    "file": "bagidora-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Baheri",
+    "state": "Uttar Pradesh",
+    "subject": "The town features the ancient Baheri Fort",
+    "file": "baheri-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Bah",
+    "state": "Uttar Pradesh",
+    "subject": "Bah Fort",
+    "file": "bah-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Bahadarabad",
+    "state": "Uttar Pradesh",
+    "subject": "Bahadarabad Fort",
+    "file": "bahadarabad-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Bahadurgarh",
+    "state": "Haryana",
+    "subject": "Gateway to Haryana & Historic Countryside",
+    "file": "bahadurgarh-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Bahraich",
+    "state": "Uttar Pradesh",
+    "subject": "Dargah Ghazi Saiyyad Salar Masud & Katarniaghat Forest",
+    "file": "bahraich-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Bahjoi",
+    "state": "Uttar Pradesh",
+    "subject": "The town features the ancient Bahjoi Fort",
+    "file": "bahjoi-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Ballabhgarh",
+    "state": "Haryana",
+    "subject": "Ballabhgarh Shivalik Foothills & Historic Heritage",
+    "file": "ballabhgarh-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Balotra",
+    "state": "Rajasthan",
+    "subject": "Balotra Fort",
+    "file": "balotra-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Balrampur",
+    "state": "Uttar Pradesh",
+    "subject": "The city features the ancient Balrampur Fort",
+    "file": "balrampur-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Banswara",
+    "state": "Rajasthan",
+    "subject": "City of Hundred Islands & Mahi River Dam Lake",
+    "file": "banswara-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Banasthali Niwai",
+    "state": "Rajasthan",
+    "subject": "Banasthali Niwai Heritage Palaces & Historic Rajasthan Citadel",
+    "file": "banasthali-niwai-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Bandikui",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Bandikui Fort",
+    "file": "bandikui-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Banjar",
+    "state": "Himachal Pradesh",
+    "subject": "Tirthan Valley",
+    "file": "banjar-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Barabanki",
+    "state": "Uttar Pradesh",
+    "subject": "Dewa Sharif Sufi Shrine & Sacred Parijaat Tree Heritage",
+    "file": "barabanki-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Banda Junction",
+    "state": "Uttar Pradesh",
+    "subject": "Banda Fort",
+    "file": "banda-junction-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Baraut",
+    "state": "Uttar Pradesh",
+    "subject": "Jain Bada Mandir & Yamuna Basin Plains",
+    "file": "baraut-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Barara",
+    "state": "Haryana",
+    "subject": "Markanda River Plain & Ambala Shivalik Rural Landscape",
+    "file": "barara-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Baran",
+    "state": "Rajasthan",
+    "subject": "Baran Fort",
+    "file": "baran-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Bareilly",
+    "state": "Uttar Pradesh",
+    "subject": "Alakhnath Temple & Historic Rohilkhand Heritage",
+    "file": "bareilly-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Barmana",
+    "state": "Himachal Pradesh",
+    "subject": "The town features the ancient Barmana Fort",
+    "file": "barmana-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Barkot",
+    "state": "Uttarakhand",
+    "subject": "Barkot Himalayan Mountain Valleys & Scenic Hillscapes",
+    "file": "barkot-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Baroda",
+    "state": "Uttar Pradesh",
+    "subject": "Baroda Fort",
+    "file": "baroda-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Barnala",
+    "state": "Punjab",
+    "subject": "Gurudwara Nanaksar & Fertile Punjab Malwa Countryside",
+    "file": "barnala-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Barsana",
+    "state": "Uttar Pradesh",
+    "subject": "Barsana Temple and Radha Rani Temple",
+    "file": "barsana-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Batala",
+    "state": "Punjab",
+    "subject": "The city features the ancient Batala Fort",
+    "file": "batala-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Basti",
+    "state": "Uttar Pradesh",
+    "subject": "The city features the ancient Basti Fort",
+    "file": "basti-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Bassi Pathana",
+    "state": "Punjab",
+    "subject": "Bassi Pathana Historic Gurudwara & Lush Countryside",
+    "file": "bassi-pathana-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Baru Sahib",
+    "state": "Himachal Pradesh",
+    "subject": "Gurudwara Baru Sahib & Valley of Divine Peace",
+    "file": "baru-sahib-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Bassi",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Bassi Fort",
+    "file": "bassi-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Barog",
+    "state": "Himachal Pradesh",
+    "subject": "Known for its ancient Barog Fort",
+    "file": "barog-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Bawal",
+    "state": "Haryana",
+    "subject": "The town features the ancient Bawal Fort",
+    "file": "bawal-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Bathinda",
+    "state": "Punjab",
+    "subject": "Qila Mubarak Fort & Bathinda Lake Promenade",
+    "file": "bathinda-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Bawani Khera",
+    "state": "Haryana",
+    "subject": "Bawani Khera Shivalik Foothills & Historic Heritage",
+    "file": "bawani-khera-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Bazpur",
+    "state": "Uttarakhand",
+    "subject": "The town features the ancient Bazpur Fort",
+    "file": "bazpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Bayana",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Bayana Fort",
+    "file": "bayana-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Beawar",
+    "state": "Rajasthan",
+    "subject": "The city features the ancient Beawar Fort",
+    "file": "beawar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Beas",
+    "state": "Punjab",
+    "subject": "Beas Historic Gurudwara & Lush Countryside",
+    "file": "beas-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Behraich",
+    "state": "Uttar Pradesh",
+    "subject": "The city features the ancient Behraich Fort",
+    "file": "behraich-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Behror",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Behror Fort",
+    "file": "behror-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Bhadohi",
+    "state": "Uttar Pradesh",
+    "subject": "The city features the ancient Bhadohi Fort",
+    "file": "bhadohi-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Bhangarh",
+    "state": "Rajasthan",
+    "subject": "Bhangarh Fort",
+    "file": "bhangarh-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Bharatpur",
+    "state": "Rajasthan",
+    "subject": "Keoladeo Ghana Bird Sanctuary UNESCO World Heritage",
+    "file": "bharatpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Bhawani Mandi",
+    "state": "Rajasthan",
+    "subject": "Bhawani Mandi Heritage Palaces & Historic Rajasthan Citadel",
+    "file": "bhawani-mandi-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Bhagega",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Bhagega Fort",
+    "file": "bhagega-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Bhiloda",
+    "state": "Gujarat",
+    "subject": "The town features the ancient Bhiloda Fort",
+    "file": "bhiloda-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Bhadra",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Bhadra Fort",
+    "file": "bhadra-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Bhilwara",
+    "state": "Rajasthan",
+    "subject": "The city features the ancient Bhilwara Fort",
+    "file": "bhilwara-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Bhogpur Sirwal",
+    "state": "Punjab",
+    "subject": "The town features beautiful Gurudwara",
+    "file": "bhogpur-sirwal-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Bhinai",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Bhinai Fort",
+    "file": "bhinai-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Bhimana",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Bhimana Fort",
+    "file": "bhimana-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Bhind",
+    "state": "Madhya Pradesh",
+    "subject": "Bhind Fort",
+    "file": "bhind-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Bhiwani",
+    "state": "Haryana",
+    "subject": "Chhota Kashi Temples & Aravalli Foothills",
+    "file": "bhiwani-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Bhimtal",
+    "state": "Uttarakhand",
+    "subject": "Bhimtal Lake",
+    "file": "bhimtal-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Bhiwadi",
+    "state": "Rajasthan",
+    "subject": "Bhiwadi Heritage Palaces & Historic Rajasthan Citadel",
+    "file": "bhiwadi-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Bhopal",
+    "state": "Madhya Pradesh",
+    "subject": "Bhopal Historic Temples & Cultural Heritage",
+    "file": "bhopal-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Bhowali Range",
+    "state": "Uttarakhand",
+    "subject": "Bhowali Range Himalayan Mountain Valleys & Scenic Hillscapes",
+    "file": "bhowali-range-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Bhuntar",
+    "state": "Himachal Pradesh",
+    "subject": "Kullu Valley",
+    "file": "bhuntar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Bichpuri",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Bichpuri Fort",
+    "file": "bichpuri-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Bijnor",
+    "state": "Uttar Pradesh",
+    "subject": "Vidur Kuti & Ganges River Sanctuary Plains",
+    "file": "bijnor-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Bikaner",
+    "state": "Rajasthan",
+    "subject": "Junagarh Fort & Lalgarh Palace Heritage",
+    "file": "bikaner-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Bilaspur (HP)",
+    "state": "Himachal Pradesh",
+    "subject": "Bilaspur (HP) Himalayan Mountain Valleys & Scenic Hillscapes",
+    "file": "bilaspur-himachal-pradesh-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Binsar",
+    "state": "Uttarakhand",
+    "subject": "Binsar Wildlife Sanctuary & Panoramic Himalayan Snow Peaks",
+    "file": "binsar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Bisalpur",
+    "state": "Rajasthan",
+    "subject": "Bisalpur Dam",
+    "file": "bisalpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Bir Biling",
+    "state": "Himachal Pradesh",
+    "subject": "Bir Biling Himalayan Mountain Valleys & Scenic Hillscapes",
+    "file": "bir-biling-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Bilgram",
+    "state": "Uttar Pradesh",
+    "subject": "Bilgram Historic Temples & Cultural Heritage",
+    "file": "bilgram-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Budaun (UP)",
+    "state": "Uttar Pradesh",
+    "subject": "The city features the ancient Budaun Fort",
+    "file": "budaun-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Brahmbad",
+    "state": "Uttarakhand",
+    "subject": "Brahmbad Himalayan Mountain Valleys & Scenic Hillscapes",
+    "file": "brahmbad-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Bulandshahr",
+    "state": "Uttar Pradesh",
+    "subject": "Karnavas Sacred Ganga Ghats & Historic Heritage",
+    "file": "bulandshahr-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Bundi",
+    "state": "Rajasthan",
+    "subject": "The city features the stunning Bundi Fort",
+    "file": "bundi-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Biyavra",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Biyavra Fort",
+    "file": "biyavra-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Champawat",
+    "state": "Uttarakhand",
+    "subject": "Baleshwar Temple",
+    "file": "champawat-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Chail",
+    "state": "Himachal Pradesh",
+    "subject": "Chail Palace & Highest Cricket Ground Cedar Forests",
+    "file": "chail-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Chandausi",
+    "state": "Uttar Pradesh",
+    "subject": "The city features the ancient Chandausi Fort",
+    "file": "chandausi-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Chamba",
+    "state": "Himachal Pradesh",
+    "subject": "Lakshmi Narayan Temple",
+    "file": "chamba-hp-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Chamoli",
+    "state": "Uttarakhand",
+    "subject": "Chamoli Himalayan Mountain Valleys & Scenic Hillscapes",
+    "file": "chamoli-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Chakrata",
+    "state": "Uttarakhand",
+    "subject": "Chakrata Himalayan Mountain Valleys & Scenic Hillscapes",
+    "file": "chakrata-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Chalsa",
+    "state": "West Bengal",
+    "subject": "Chalsa Historic Temples & Cultural Heritage",
+    "file": "chalsa-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Chandigarh",
+    "state": "Chandigarh",
+    "subject": "Sukhna Lake Promenade & Rock Garden Architecture",
+    "file": "chandigarh-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Chandpur",
+    "state": "Uttar Pradesh",
+    "subject": "The town features the ancient Chandpur Fort",
+    "file": "chandpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Charkhi Dadri",
+    "state": "Haryana",
+    "subject": "Charkhi Dadri Shivalik Foothills & Historic Heritage",
+    "file": "charkhi-dadri-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Chhatarpur",
+    "state": "Madhya Pradesh",
+    "subject": "Chhatarpur Historic Temples & Cultural Heritage",
+    "file": "chhatarpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Chhapi",
+    "state": "Gujarat",
+    "subject": "Chhapi Historic Temples & Cultural Heritage",
+    "file": "chhapi-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Chaukhutiya",
+    "state": "Uttarakhand",
+    "subject": "Chaukhutiya Himalayan Mountain Valleys & Scenic Hillscapes",
+    "file": "chaukhutiya-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Chaubatia",
+    "state": "Uttarakhand",
+    "subject": "Chaubatia Himalayan Mountain Valleys & Scenic Hillscapes",
+    "file": "chaubatia-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Chaukori",
+    "state": "Uttarakhand",
+    "subject": "Chaukori Himalayan Mountain Valleys & Scenic Hillscapes",
+    "file": "chaukori-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Chhibramau",
+    "state": "Uttar Pradesh",
+    "subject": "Chhibramau Historic Temples & Cultural Heritage",
+    "file": "chhibramau-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Churu",
+    "state": "Rajasthan",
+    "subject": "The city features the ancient Churu Fort",
+    "file": "churu-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Chilika",
+    "state": "Odisha",
+    "subject": "Chilika Lake",
+    "file": "chilika-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Chirawa",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Chirawa Fort",
+    "file": "chirawa-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Chipyana Khurd Urf Tigri",
+    "state": "Uttar Pradesh",
+    "subject": "Chipyana Khurd Urf Tigri Historic Temples & Cultural Heritage",
+    "file": "chipyana-khurd-urf-tigri-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Chintpurni",
+    "state": "Himachal Pradesh",
+    "subject": "Chintpurni Temple",
+    "file": "chintpurni-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Chopta",
+    "state": "Uttarakhand",
+    "subject": "Mini Switzerland of India & Tungnath Himalayan Meadow",
+    "file": "chopta-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Chittorgarh",
+    "state": "Rajasthan",
+    "subject": "Chittorgarh Fort",
+    "file": "chittorgarh-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Dakpatthar",
+    "state": "Uttarakhand",
+    "subject": "Dakpatthar Himalayan Mountain Valleys & Scenic Hillscapes",
+    "file": "dakpatthar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Dalhousie",
+    "state": "Himachal Pradesh",
+    "subject": "Panchpula Pine Forest & Khajjiar Alpine Meadows",
+    "file": "dalhousie-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Dabra",
+    "state": "Madhya Pradesh",
+    "subject": "Dabra Historic Temples & Cultural Heritage",
+    "file": "dabra-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Colonelganj",
+    "state": "Uttar Pradesh",
+    "subject": "Colonelganj Historic Temples & Cultural Heritage",
+    "file": "colonelganj-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Chopal",
+    "state": "Himachal Pradesh",
+    "subject": "Chopal Himalayan Mountain Valleys & Scenic Hillscapes",
+    "file": "chopal-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Damoh",
+    "state": "Madhya Pradesh",
+    "subject": "Bade Baba Temple",
+    "file": "damoh-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Chitrakoot",
+    "state": "Uttar Pradesh",
+    "subject": "The town is home to the holy Ram Ghat",
+    "file": "chitrakoot-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Deoband",
+    "state": "Uttar Pradesh",
+    "subject": "Deoband Historic Temples & Cultural Heritage",
+    "file": "deoband-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Dausa",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Dausa Fort",
+    "file": "dausa-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Derabassi",
+    "state": "Punjab",
+    "subject": "Derabassi Historic Gurudwara & Lush Countryside",
+    "file": "derabassi-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Delhi",
+    "state": "North India",
+    "subject": "Delhi Historic Temples & Cultural Heritage",
+    "file": "delhi-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Daulatpur",
+    "state": "Himachal Pradesh",
+    "subject": "Daulatpur Himalayan Mountain Valleys & Scenic Hillscapes",
+    "file": "daulatpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Dhamnod",
+    "state": "Madhya Pradesh",
+    "subject": "Dhamnod Historic Temples & Cultural Heritage",
+    "file": "dhamnod-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Dehradun",
+    "state": "Uttarakhand",
+    "subject": "Robber Cave Guchhupani & Forest Research Institute",
+    "file": "dehradun-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Deeg",
+    "state": "Rajasthan",
+    "subject": "Deeg Heritage Palaces & Historic Rajasthan Citadel",
+    "file": "deeg-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Devprayag",
+    "state": "Uttarakhand",
+    "subject": "Devprayag Himalayan Mountain Valleys & Scenic Hillscapes",
+    "file": "devprayag-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Devala",
+    "state": "Uttarakhand",
+    "subject": "Devala Himalayan Mountain Valleys & Scenic Hillscapes",
+    "file": "devala-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Dasuya",
+    "state": "Punjab",
+    "subject": "Dasuya Historic Gurudwara & Lush Countryside",
+    "file": "dasuya-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Dhampur",
+    "state": "Uttar Pradesh",
+    "subject": "Dhampur Historic Temples & Cultural Heritage",
+    "file": "dhampur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Dharampur",
+    "state": "Himachal Pradesh",
+    "subject": "Dharampur Himalayan Mountain Valleys & Scenic Hillscapes",
+    "file": "dharampur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Dharchula",
+    "state": "Uttarakhand",
+    "subject": "Dharchula Himalayan Mountain Valleys & Scenic Hillscapes",
+    "file": "dharchula-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Dhanaulti",
+    "state": "Uttarakhand",
+    "subject": "Surkanda Devi Temple",
+    "file": "dhanaulti-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Dhariwal",
+    "state": "Punjab",
+    "subject": "Dhariwal Historic Gurudwara & Lush Countryside",
+    "file": "dhariwal-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Dhanera",
+    "state": "India",
+    "subject": "The town features the ancient Dhanera Fort",
+    "file": "dhanera-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Dharuhera",
+    "state": "Haryana",
+    "subject": "Dharuhera Shivalik Foothills & Historic Heritage",
+    "file": "dharuhera-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Dhanaura",
+    "state": "Uttar Pradesh",
+    "subject": "Dhanaura Historic Temples & Cultural Heritage",
+    "file": "dhanaura-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Dharamshala",
+    "state": "Himachal Pradesh",
+    "subject": "Dhauladhar Snow Mountain Ridge & Kangra Tea Gardens",
+    "file": "dharamshala-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Dhuri",
+    "state": "Punjab",
+    "subject": "Dhuri Historic Gurudwara & Lush Countryside",
+    "file": "dhuri-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Dholpur",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Dholpur Fort",
+    "file": "dholpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Dibai",
+    "state": "Uttar Pradesh",
+    "subject": "Dibai Historic Temples & Cultural Heritage",
+    "file": "dibai-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Didwana",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Didwana Fort",
+    "file": "didwana-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Dungarpur",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Dungarpur Fort",
+    "file": "dungarpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Etah",
+    "state": "North India",
+    "subject": "The town features the ancient Etah Fort",
+    "file": "etah-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Etawah",
+    "state": "Uttar Pradesh",
+    "subject": "The town features the ancient Etawah Fort",
+    "file": "etawah-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Dugadda",
+    "state": "North India",
+    "subject": "The town features the ancient Dugadda Fort",
+    "file": "dugadda-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Doiwala",
+    "state": "Uttarakhand",
+    "subject": "The town features the ancient Doiwala Fort",
+    "file": "doiwala-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Doraha",
+    "state": "North India",
+    "subject": "The town features the ancient Doraha Fort",
+    "file": "doraha-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Dwarahat",
+    "state": "North India",
+    "subject": "The town features the ancient Dwarahat Fort",
+    "file": "dwarahat-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Fagu",
+    "state": "North India",
+    "subject": "The town features the ancient Fagu Fort",
+    "file": "fagu-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Didwan",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Didwan Fort",
+    "file": "didwan-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Fatehabad",
+    "state": "Haryana",
+    "subject": "The town features the ancient Fatehabad Fort",
+    "file": "fatehabad-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Farrukhabad",
+    "state": "Uttar Pradesh",
+    "subject": "Farrukhabad Historic Temples & Cultural Heritage",
+    "file": "farrukhabad-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Faridkot",
+    "state": "Punjab",
+    "subject": "The town features the ancient Faridkot Fort",
+    "file": "faridkot-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Faizabad",
+    "state": "North India",
+    "subject": "The town features the ancient Faizabad Fort",
+    "file": "faizabad-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Fatehpur",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Fatehpur Fort",
+    "file": "fatehpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Faridabad",
+    "state": "Haryana",
+    "subject": "The town features the ancient Faridabad Fort",
+    "file": "faridabad-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Falna",
+    "state": "North India",
+    "subject": "The town features the ancient Falna Fort",
+    "file": "falna-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Fazilka",
+    "state": "Punjab",
+    "subject": "The town features the ancient Fazilka Fort",
+    "file": "fazilka-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Firozabad",
+    "state": "Uttar Pradesh",
+    "subject": "City of Glass Heritage & Yamuna River Plains",
+    "file": "firozabad-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Fatehpur Sikri",
+    "state": "Uttar Pradesh",
+    "subject": "Buland Darwaza & Salim Chishti White Marble Shrine",
+    "file": "fatehpur-sikri-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Ferozepur",
+    "state": "North India",
+    "subject": "The town features the ancient Ferozepur Fort",
+    "file": "ferozepur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Ganaur",
+    "state": "North India",
+    "subject": "The town features the ancient Ganaur Fort",
+    "file": "ganaur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Gangotri",
+    "state": "Uttarakhand",
+    "subject": "Gangotri Temple & Bhagirathi River Gorge",
+    "file": "gangotri-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Gaurikund",
+    "state": "North India",
+    "subject": "The town features the ancient Gaurikund Fort",
+    "file": "gaurikund-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Gadarpur",
+    "state": "North India",
+    "subject": "The town features the ancient Gadarpur Fort",
+    "file": "gadarpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Gajraula",
+    "state": "North India",
+    "subject": "The town features the ancient Gajraula Fort",
+    "file": "gajraula-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Ganj Dundwara",
+    "state": "North India",
+    "subject": "Ganj Dundwara Historic Temples & Cultural Heritage",
+    "file": "ganj-dundwara-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Garh Mukteshwar",
+    "state": "Uttarakhand",
+    "subject": "Garh Mukteshwar Himalayan Mountain Valleys & Scenic Hillscapes",
+    "file": "garh-mukteshwar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Gangapur City",
+    "state": "North India",
+    "subject": "Gangapur City Historic Temples & Cultural Heritage",
+    "file": "gangapur-city-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Gangoh",
+    "state": "North India",
+    "subject": "The town features the ancient Gangoh Fort",
+    "file": "gangoh-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "subject": "The town features the ancient Ghaziabad Fort",
+    "file": "ghaziabad-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Gogunda",
+    "state": "North India",
+    "subject": "The town features the ancient Gogunda Fort",
+    "file": "gogunda-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Gharaunda",
+    "state": "North India",
+    "subject": "The town features the ancient Gharaunda Fort",
+    "file": "gharaunda-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Ghumarwin",
+    "state": "North India",
+    "subject": "The town features the ancient Ghumarwin Fort",
+    "file": "ghumarwin-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Ghoti Budruk",
+    "state": "North India",
+    "subject": "Ghoti Budruk Historic Temples & Cultural Heritage",
+    "file": "ghoti-budruk-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Ghatampur",
+    "state": "North India",
+    "subject": "The town features the ancient Ghatampur Fort",
+    "file": "ghatampur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Gohana",
+    "state": "North India",
+    "subject": "The town features the ancient Gohana Fort",
+    "file": "gohana-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Greater Noida",
+    "state": "Uttar Pradesh",
+    "subject": "Greater Noida Historic Temples & Cultural Heritage",
+    "file": "greater-noida-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Gorakhpur",
+    "state": "Uttar Pradesh",
+    "subject": "The town features the ancient Gorakhpur Fort",
+    "file": "gorakhpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Guna",
+    "state": "Madhya Pradesh",
+    "subject": "The town features the ancient Guna Fort",
+    "file": "guna-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Govardhan",
+    "state": "Uttar Pradesh",
+    "subject": "The town features the ancient Govardhan Fort",
+    "file": "govardhan-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Gurgaon",
+    "state": "Haryana",
+    "subject": "The town features the ancient Gurgaon Fort",
+    "file": "gurgaon-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Gonda",
+    "state": "Uttar Pradesh",
+    "subject": "The town features the ancient Gonda Fort",
+    "file": "gonda-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Haldwani",
+    "state": "Uttarakhand",
+    "subject": "The town features the ancient Haldwani Fort",
+    "file": "haldwani-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Gurdaspur",
+    "state": "Punjab",
+    "subject": "The town features the ancient Gurdaspur Fort",
+    "file": "gurdaspur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Gwalior",
+    "state": "Madhya Pradesh",
+    "subject": "Gwalior Fort Pearl in the Necklace & Jai Vilas Palace",
+    "file": "gwalior-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Haldaur",
+    "state": "North India",
+    "subject": "The town features the ancient Haldaur Fort",
+    "file": "haldaur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Hapur",
+    "state": "Uttar Pradesh",
+    "subject": "The town features the ancient Hapur Fort",
+    "file": "hapur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Hardoi",
+    "state": "Uttar Pradesh",
+    "subject": "The town features the ancient Hardoi Fort",
+    "file": "hardoi-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Hardo Rattan",
+    "state": "North India",
+    "subject": "Hardo Rattan Historic Temples & Cultural Heritage",
+    "file": "hardo-rattan-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Hanumangarh",
+    "state": "Rajasthan",
+    "subject": "Hanumangarh Heritage Palaces & Historic Rajasthan Citadel",
+    "file": "hanumangarh-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Hamirpur",
+    "state": "Himachal Pradesh",
+    "subject": "The town features the ancient Hamirpur Fort",
+    "file": "hamirpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Haridwar",
+    "state": "Uttarakhand",
+    "subject": "Har Ki Pauri Sacred Ghat & Evening Ganga Aarti",
+    "file": "haridwar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Hansi",
+    "state": "Haryana",
+    "subject": "Asigarh Fort of Prithviraj Chauhan & Historic Baolis",
+    "file": "hansi-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Hastinapur",
+    "state": "North India",
+    "subject": "The town features the ancient Hastinapur Fort",
+    "file": "hastinapur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Hatgad",
+    "state": "North India",
+    "subject": "The town features the ancient Hatgad Fort",
+    "file": "hatgad-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Hasanpur",
+    "state": "North India",
+    "subject": "The town features the ancient Hasanpur Fort",
+    "file": "hasanpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Hindaun City",
+    "state": "North India",
+    "subject": "Hindaun City Historic Temples & Cultural Heritage",
+    "file": "hindaun-city-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Hemkunt Sahib",
+    "state": "North India",
+    "subject": "Hemkunt Sahib Historic Temples & Cultural Heritage",
+    "file": "hemkunt-sahib-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Hisar",
+    "state": "Haryana",
+    "subject": "Firoz Shah Palace Complex & Lat Ki Masjid Heritage",
+    "file": "hisar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Hoshiarpur",
+    "state": "Punjab",
+    "subject": "The town features the ancient Hoshiarpur Fort",
+    "file": "hoshiarpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Jaipur",
+    "state": "Rajasthan",
+    "subject": "Hawa Mahal Palace of Winds & Amber Fort",
+    "file": "jaipur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Jalesar",
+    "state": "North India",
+    "subject": "The town features the ancient Jalesar Fort",
+    "file": "jalesar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Jaisalmer",
+    "state": "Rajasthan",
+    "subject": "Golden Sandstone Fort & Sam Sand Dunes Desert",
+    "file": "jaisalmer-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Jagraon",
+    "state": "North India",
+    "subject": "The town features the ancient Jagraon Fort",
+    "file": "jagraon-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Huzur Nagar",
+    "state": "North India",
+    "subject": "Huzur Nagar Historic Temples & Cultural Heritage",
+    "file": "huzur-nagar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Hathras",
+    "state": "Uttar Pradesh",
+    "subject": "The town features the ancient Hathras Fort",
+    "file": "hathras-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Hodal",
+    "state": "Haryana",
+    "subject": "The town features the ancient Hodal Fort",
+    "file": "hodal-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Iqbalgadh",
+    "state": "North India",
+    "subject": "The town features the ancient Iqbalgadh Fort",
+    "file": "iqbalgadh-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Jalalpur",
+    "state": "North India",
+    "subject": "The town features the ancient Jalalpur Fort",
+    "file": "jalalpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Jaitaran",
+    "state": "North India",
+    "subject": "The town features the ancient Jaitaran Fort",
+    "file": "jaitaran-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Jalandhar",
+    "state": "Punjab",
+    "subject": "The town features the ancient Jalandhar Fort",
+    "file": "jalandhar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Jagadhri",
+    "state": "Haryana",
+    "subject": "The town features the ancient Jagadhri Fort",
+    "file": "jagadhri-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Jalore",
+    "state": "North India",
+    "subject": "The town features the ancient Jalore Fort",
+    "file": "jalore-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Jalaun",
+    "state": "North India",
+    "subject": "The town features the ancient Jalaun Fort",
+    "file": "jalaun-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Jaora",
+    "state": "North India",
+    "subject": "The town features the ancient Jaora Fort",
+    "file": "jaora-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Jammu",
+    "state": "Jammu & Kashmir",
+    "subject": "The town features the ancient Jammu Fort",
+    "file": "jammu-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Jaspur",
+    "state": "North India",
+    "subject": "The town features the ancient Jaspur Fort",
+    "file": "jaspur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Jaunpur",
+    "state": "Uttar Pradesh",
+    "subject": "The town features the ancient Jaunpur Fort",
+    "file": "jaunpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Jatipura",
+    "state": "North India",
+    "subject": "The town features the ancient Jatipura Fort",
+    "file": "jatipura-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Jhalawar",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Jhalawar Fort",
+    "file": "jhalawar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Jhanduta",
+    "state": "North India",
+    "subject": "The town features the ancient Jhanduta Fort",
+    "file": "jhanduta-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Jawali",
+    "state": "North India",
+    "subject": "The town features the ancient Jawali Fort",
+    "file": "jawali-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Jim Corbett",
+    "state": "Uttarakhand",
+    "subject": "Jim Corbett Himalayan Mountain Valleys & Scenic Hillscapes",
+    "file": "jim-corbett-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Jeolikote",
+    "state": "North India",
+    "subject": "The town features the ancient Jeolikote Fort",
+    "file": "jeolikote-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Jind",
+    "state": "Haryana",
+    "subject": "Rani Talab Sacred Sarovar & Historic Jayanti Devi Mandir",
+    "file": "jind-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Jhajjar",
+    "state": "Haryana",
+    "subject": "The town features the ancient Jhajjar Fort",
+    "file": "jhajjar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Jhunjhunu",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Jhunjhunu Fort",
+    "file": "jhunjhunu-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Jawalamukhi",
+    "state": "Himachal Pradesh",
+    "subject": "Jawalamukhi Himalayan Mountain Valleys & Scenic Hillscapes",
+    "file": "jawalamukhi-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Joginder Nagar",
+    "state": "North India",
+    "subject": "Joginder Nagar Historic Temples & Cultural Heritage",
+    "file": "joginder-nagar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Jewar",
+    "state": "North India",
+    "subject": "The town features the ancient Jewar Fort",
+    "file": "jewar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Jhansi",
+    "state": "Uttar Pradesh",
+    "subject": "Rani Jhansi Fort & Bundelkhand Historic Citadel",
+    "file": "jhansi-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Joshimath",
+    "state": "Uttarakhand",
+    "subject": "The town features the ancient Joshimath Fort",
+    "file": "joshimath-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Jolly Grant",
+    "state": "North India",
+    "subject": "Jolly Grant Historic Temples & Cultural Heritage",
+    "file": "jolly-grant-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Jobner",
+    "state": "North India",
+    "subject": "The town features the ancient Jobner Fort",
+    "file": "jobner-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Jubbal",
+    "state": "North India",
+    "subject": "The town features the ancient Jubbal Fort",
+    "file": "jubbal-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Jodhpur",
+    "state": "Rajasthan",
+    "subject": "Mehrangarh Fort & Blue City Architecture",
+    "file": "jodhpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Jwalamukhi",
+    "state": "North India",
+    "subject": "The town features the ancient Jwalamukhi Fort",
+    "file": "jwalamukhi-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kadipur",
+    "state": "North India",
+    "subject": "The town features the ancient Kadipur Fort",
+    "file": "kadipur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kala Amb",
+    "state": "Himachal Pradesh",
+    "subject": "The town features the ancient Kala Amb Fort",
+    "file": "kala-amb-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kaithal",
+    "state": "Haryana",
+    "subject": "The town features the ancient Kaithal Fort",
+    "file": "kaithal-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kaloli (Rajasthan)",
+    "state": "Rajasthan",
+    "subject": "Kaloli (Rajasthan) Heritage Palaces & Historic Rajasthan Citadel",
+    "file": "kaloli-rajasthan-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kalka",
+    "state": "Haryana",
+    "subject": "Kali Mata Temple & Kalka Shimla Toy Train Heritage Gateway",
+    "file": "kalka-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kandaghat",
+    "state": "North India",
+    "subject": "The town features the ancient Kandaghat Fort",
+    "file": "kandaghat-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kalyanpur",
+    "state": "North India",
+    "subject": "The town features the ancient Kalyanpur Fort",
+    "file": "kalyanpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kanhe Phata",
+    "state": "North India",
+    "subject": "Kanhe Phata Historic Temples & Cultural Heritage",
+    "file": "kanhe-phata-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kanatal",
+    "state": "Uttarakhand",
+    "subject": "The town features the ancient Kanatal Fort",
+    "file": "kanatal-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kangra",
+    "state": "Himachal Pradesh",
+    "subject": "The town features the ancient Kangra Fort",
+    "file": "kangra-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kalpa",
+    "state": "Himachal Pradesh",
+    "subject": "The town features the ancient Kalpa Fort",
+    "file": "kalpa-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kanpur",
+    "state": "Uttar Pradesh",
+    "subject": "Bithoor Ganga Ghats & Historic Brahmavart Monument",
+    "file": "kanpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kannauj",
+    "state": "Uttar Pradesh",
+    "subject": "The town features the ancient Kannauj Fort",
+    "file": "kannauj-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kapurthala",
+    "state": "Punjab",
+    "subject": "The town features the ancient Kapurthala Fort",
+    "file": "kapurthala-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kanth",
+    "state": "North India",
+    "subject": "The town features the ancient Kanth Fort",
+    "file": "kanth-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Karnaprayag",
+    "state": "Uttarakhand",
+    "subject": "Karnaprayag Himalayan Mountain Valleys & Scenic Hillscapes",
+    "file": "karnaprayag-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Karauli",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Karauli Fort",
+    "file": "karauli-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Karnal",
+    "state": "Haryana",
+    "subject": "Karna Lake Promenade & Historic Cantonment Heritage",
+    "file": "karnal-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kapkot",
+    "state": "North India",
+    "subject": "The town features the ancient Kapkot Fort",
+    "file": "kapkot-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kasauli",
+    "state": "Himachal Pradesh",
+    "subject": "Gilbert Trail & Monkey Point Himalayan Pine Forests",
+    "file": "kasauli-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kasganj",
+    "state": "Uttar Pradesh",
+    "subject": "The town features the ancient Kasganj Fort",
+    "file": "kasganj-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kasol",
+    "state": "Himachal Pradesh",
+    "subject": "Parvati River Valley & Pine Cedar Woodlands",
+    "file": "kasol-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kausani",
+    "state": "Uttarakhand",
+    "subject": "The town features the ancient Kausani Fort",
+    "file": "kausani-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Katni",
+    "state": "North India",
+    "subject": "The town features the ancient Katni Fort",
+    "file": "katni-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kashipur",
+    "state": "Uttarakhand",
+    "subject": "Kashipur Himalayan Mountain Valleys & Scenic Hillscapes",
+    "file": "kashipur-uttarakhand-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kathgodam",
+    "state": "North India",
+    "subject": "The town features the ancient Kathgodam Fort",
+    "file": "kathgodam-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Katra",
+    "state": "Jammu & Kashmir",
+    "subject": "The town features the ancient Katra Fort",
+    "file": "katra-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Keylong",
+    "state": "North India",
+    "subject": "The town features the ancient Keylong Fort",
+    "file": "keylong-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kaza",
+    "state": "Himachal Pradesh",
+    "subject": "The town features the ancient Kaza Fort",
+    "file": "kaza-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Khairthal",
+    "state": "North India",
+    "subject": "The town features the ancient Khairthal Fort",
+    "file": "khairthal-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kedarnath",
+    "state": "Uttarakhand",
+    "subject": "Sacred Kedarnath Temple & Snow Himalayas Peak",
+    "file": "kedarnath-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Khanna",
+    "state": "Punjab",
+    "subject": "The town features the ancient Khanna Fort",
+    "file": "khanna-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Khandela",
+    "state": "North India",
+    "subject": "The town features the ancient Khandela Fort",
+    "file": "khandela-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Khajuraho",
+    "state": "Madhya Pradesh",
+    "subject": "Khajuraho UNESCO World Heritage Temples Architecture",
+    "file": "khajuraho-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kekri",
+    "state": "North India",
+    "subject": "The town features the ancient Kekri Fort",
+    "file": "kekri-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Khajjiar",
+    "state": "Himachal Pradesh",
+    "subject": "The town features the ancient Khajjiar Fort",
+    "file": "khajjiar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Khatauli",
+    "state": "North India",
+    "subject": "The town features the ancient Khatauli Fort",
+    "file": "khatauli-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Khatima",
+    "state": "North India",
+    "subject": "The town features the ancient Khatima Fort",
+    "file": "khatima-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kharar",
+    "state": "Punjab",
+    "subject": "The town features the ancient Kharar Fort",
+    "file": "kharar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Khatu Shyam Ji",
+    "state": "Rajasthan",
+    "subject": "Khatu Shyam Ji Heritage Palaces & Historic Rajasthan Citadel",
+    "file": "khatu-shyam-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Khijuriwas",
+    "state": "North India",
+    "subject": "The town features the ancient Khijuriwas Fort",
+    "file": "khijuriwas-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Khimsar",
+    "state": "North India",
+    "subject": "The town features the ancient Khimsar Fort",
+    "file": "khimsar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kichha",
+    "state": "North India",
+    "subject": "The town features the ancient Kichha Fort",
+    "file": "kichha-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Khetri",
+    "state": "North India",
+    "subject": "The town features the ancient Khetri Fort",
+    "file": "khetri-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Khurja",
+    "state": "North India",
+    "subject": "The town features the ancient Khurja Fort",
+    "file": "khurja-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kishangarh",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Kishangarh Fort",
+    "file": "kishangarh-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kosli",
+    "state": "North India",
+    "subject": "The town features the ancient Kosli Fort",
+    "file": "kosli-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kosi Kalan",
+    "state": "North India",
+    "subject": "The town features the ancient Kosi Kalan Fort",
+    "file": "kosi-kalan-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kinnaur",
+    "state": "Himachal Pradesh",
+    "subject": "The town features the ancient Kinnaur Fort",
+    "file": "kinnaur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kiratpur Sahib",
+    "state": "North India",
+    "subject": "Kiratpur Sahib Historic Temples & Cultural Heritage",
+    "file": "kiratpur-sahib-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kuchaman City",
+    "state": "North India",
+    "subject": "Kuchaman City Historic Temples & Cultural Heritage",
+    "file": "kuchaman-city-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kota",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Kota Fort",
+    "file": "kota-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kotdwara",
+    "state": "North India",
+    "subject": "The town features the ancient Kotdwara Fort",
+    "file": "kotdwara-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kotkapura",
+    "state": "North India",
+    "subject": "The town features the ancient Kotkapura Fort",
+    "file": "kotkapura-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kotputli",
+    "state": "North India",
+    "subject": "The town features the ancient Kotputli Fort",
+    "file": "kotputli-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kufri",
+    "state": "Himachal Pradesh",
+    "subject": "The town features the ancient Kufri Fort",
+    "file": "kufri-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kukas",
+    "state": "North India",
+    "subject": "The town features the ancient Kukas Fort",
+    "file": "kukas-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kumbhalgarh",
+    "state": "Rajasthan",
+    "subject": "Kumbhalgarh Heritage Palaces & Historic Rajasthan Citadel",
+    "file": "kumbhalgarh-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kullu",
+    "state": "Himachal Pradesh",
+    "subject": "Beas River Valley & Bijli Mahadev Himalayan Peak",
+    "file": "kullu-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kurukshetra",
+    "state": "Haryana",
+    "subject": "Brahma Sarovar Sacred Water & Jyotisar Gita Birthplace",
+    "file": "kurukshetra-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Lachhipura",
+    "state": "North India",
+    "subject": "The town features the ancient Lachhipura Fort",
+    "file": "lachhipura-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Ladnun",
+    "state": "North India",
+    "subject": "The town features the ancient Ladnun Fort",
+    "file": "ladnun-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kundarki",
+    "state": "North India",
+    "subject": "The town features the ancient Kundarki Fort",
+    "file": "kundarki-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Laharpur",
+    "state": "North India",
+    "subject": "The town features the ancient Laharpur Fort",
+    "file": "laharpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Lakhimpur",
+    "state": "Uttar Pradesh",
+    "subject": "The town features the ancient Lakhimpur Fort",
+    "file": "lakhimpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Kurebhar",
+    "state": "North India",
+    "subject": "The town features the ancient Kurebhar Fort",
+    "file": "kurebhar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Lalru",
+    "state": "North India",
+    "subject": "The town features the ancient Lalru Fort",
+    "file": "lalru-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Loharu",
+    "state": "North India",
+    "subject": "The town features the ancient Loharu Fort",
+    "file": "loharu-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Lansdowne",
+    "state": "Uttarakhand",
+    "subject": "Bhulla Lake & Pine-Clad Garhwal Himalayan Forest",
+    "file": "lansdowne-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Laxmangarh",
+    "state": "North India",
+    "subject": "The town features the ancient Laxmangarh Fort",
+    "file": "laxmangarh-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Loni",
+    "state": "North India",
+    "subject": "The town features the ancient Loni Fort",
+    "file": "loni-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Laksar",
+    "state": "North India",
+    "subject": "The town features the ancient Laksar Fort",
+    "file": "laksar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Lucknow",
+    "state": "Uttar Pradesh",
+    "subject": "Bara Imambara & Rumi Darwaza Nawabi Architecture",
+    "file": "lucknow-urbania-on-rent.webp",
+    "type": "REAL_MONUMENT"
+  },
+  {
+    "destination": "Mainpuri",
+    "state": "Uttar Pradesh",
+    "subject": "The town features the ancient Mainpuri Fort",
+    "file": "mainpuri-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Lalkuan",
+    "state": "North India",
+    "subject": "The town features the ancient Lalkuan Fort",
+    "file": "lalkuan-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Ludhiana",
+    "state": "Punjab",
+    "subject": "The town features the ancient Ludhiana Fort",
+    "file": "ludhiana-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Madhopur",
+    "state": "Punjab",
+    "subject": "Madhopur Historic Gurudwara & Lush Countryside",
+    "file": "madhopur-punjab-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Mahendragarh",
+    "state": "North India",
+    "subject": "Mahendragarh Historic Temples & Cultural Heritage",
+    "file": "mahendragarh-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Mahoba",
+    "state": "Uttar Pradesh",
+    "subject": "The town features the ancient Mahoba Fort",
+    "file": "mahoba-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Maksi",
+    "state": "North India",
+    "subject": "The town features the ancient Maksi Fort",
+    "file": "maksi-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Malpura",
+    "state": "North India",
+    "subject": "The town features the ancient Malpura Fort",
+    "file": "malpura-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Manali",
+    "state": "Himachal Pradesh",
+    "subject": "Solang Valley Snow Peaks & Hadimba Pine Forest",
+    "file": "manali-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Manesar",
+    "state": "Haryana",
+    "subject": "The town features the ancient Manesar Fort",
+    "file": "manesar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Mandawa",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Mandawa Fort",
+    "file": "mandawa-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Mandi",
+    "state": "Himachal Pradesh",
+    "subject": "Varanasi of Hills & Ancient Stone Temples of Beas",
+    "file": "mandi-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Mandasor",
+    "state": "North India",
+    "subject": "The town features the ancient Mandasor Fort",
+    "file": "mandasor-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Mandav",
+    "state": "North India",
+    "subject": "The town features the ancient Mandav Fort",
+    "file": "mandav-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Malout",
+    "state": "North India",
+    "subject": "The town features the ancient Malout Fort",
+    "file": "malout-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Makhu",
+    "state": "North India",
+    "subject": "The town features the ancient Makhu Fort",
+    "file": "makhu-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Mandsaur",
+    "state": "Madhya Pradesh",
+    "subject": "The town features the ancient Mandsaur Fort",
+    "file": "mandsaur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Mansa",
+    "state": "Punjab",
+    "subject": "The town features the ancient Mansa Fort",
+    "file": "mansa-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Marwar Bhinmal",
+    "state": "North India",
+    "subject": "Marwar Bhinmal Historic Temples & Cultural Heritage",
+    "file": "marwar-bhinmal-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Mandi Gobindgarh",
+    "state": "Himachal Pradesh",
+    "subject": "Mandi Gobindgarh Himalayan Mountain Valleys & Scenic Hillscapes",
+    "file": "mandi-gobindgarh-punjab-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Marwar Ranawas",
+    "state": "North India",
+    "subject": "Marwar Ranawas Historic Temples & Cultural Heritage",
+    "file": "marwar-ranawas-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Malerkotla",
+    "state": "Punjab",
+    "subject": "The town features the ancient Malerkotla Fort",
+    "file": "malerkotla-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Manikaran",
+    "state": "North India",
+    "subject": "The town features the ancient Manikaran Fort",
+    "file": "manikaran-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Mashobra",
+    "state": "Himachal Pradesh",
+    "subject": "The town features the ancient Mashobra Fort",
+    "file": "mashobra-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Mathura",
+    "state": "Uttar Pradesh",
+    "subject": "Shri Krishna Janmasthan & Yamuna Riverfront Ghats",
+    "file": "mathura-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Mayapur",
+    "state": "North India",
+    "subject": "The town features the ancient Mayapur Fort",
+    "file": "mayapur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Mcleod Ganj",
+    "state": "North India",
+    "subject": "Mcleod Ganj Historic Temples & Cultural Heritage",
+    "file": "mcleod-ganj-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Medhupur",
+    "state": "North India",
+    "subject": "The town features the ancient Medhupur Fort",
+    "file": "medhupur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Meerut",
+    "state": "Uttar Pradesh",
+    "subject": "Augarnath Temple of 1857 & Historic Doab Heritage",
+    "file": "meerut-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Mehandipur Balaji",
+    "state": "North India",
+    "subject": "Mehandipur Balaji Historic Temples & Cultural Heritage",
+    "file": "mehandipur-balaji-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Merta",
+    "state": "North India",
+    "subject": "The town features the ancient Merta Fort",
+    "file": "merta-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Mhow",
+    "state": "North India",
+    "subject": "The town features the ancient Mhow Fort",
+    "file": "mhow-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Mirthal",
+    "state": "North India",
+    "subject": "The town features the ancient Mirthal Fort",
+    "file": "mirthal-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Mehrauli",
+    "state": "North India",
+    "subject": "The town features the ancient Mehrauli Fort",
+    "file": "mehrauli-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Milak",
+    "state": "North India",
+    "subject": "The town features the ancient Milak Fort",
+    "file": "milak-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Modinagar",
+    "state": "North India",
+    "subject": "The town features the ancient Modinagar Fort",
+    "file": "modinagar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Mohali",
+    "state": "Punjab",
+    "subject": "The town features the ancient Mohali Fort",
+    "file": "mohali-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Moonak",
+    "state": "North India",
+    "subject": "The town features the ancient Moonak Fort",
+    "file": "moonak-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Mirzapur",
+    "state": "Uttar Pradesh",
+    "subject": "The town features the ancient Mirzapur Fort",
+    "file": "mirzapur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Moga",
+    "state": "Punjab",
+    "subject": "The town features the ancient Moga Fort",
+    "file": "moga-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Misrikh Cum Neemsar",
+    "state": "North India",
+    "subject": "Misrikh Cum Neemsar Historic Temples & Cultural Heritage",
+    "file": "misrikh-cum-neemsar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Morinda",
+    "state": "North India",
+    "subject": "The town features the ancient Morinda Fort",
+    "file": "morinda-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Morni Hills",
+    "state": "North India",
+    "subject": "Morni Hills Historic Temples & Cultural Heritage",
+    "file": "morni-hills-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Moradabad",
+    "state": "Uttar Pradesh",
+    "subject": "Peetal Nagri Brass Heritage & Ramganga River Basin",
+    "file": "moradabad-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Morena",
+    "state": "Madhya Pradesh",
+    "subject": "The town features the ancient Morena Fort",
+    "file": "morena-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Mount Abu",
+    "state": "Rajasthan",
+    "subject": "Dilwara Jain Marble Temples & Nakki Lake Aravalli Hills",
+    "file": "mount-abu-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Mukerian",
+    "state": "North India",
+    "subject": "The town features the ancient Mukerian Fort",
+    "file": "mukerian-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Muktsar",
+    "state": "Punjab",
+    "subject": "The town features the ancient Muktsar Fort",
+    "file": "muktsar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Mukteshwar",
+    "state": "Uttarakhand",
+    "subject": "The town features the ancient Mukteshwar Fort",
+    "file": "mukteshwar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Mukundgarh",
+    "state": "North India",
+    "subject": "The town features the ancient Mukundgarh Fort",
+    "file": "mukundgarh-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Munsiyari",
+    "state": "North India",
+    "subject": "The town features the ancient Munsiyari Fort",
+    "file": "munsiyari-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Mullana",
+    "state": "North India",
+    "subject": "The town features the ancient Mullana Fort",
+    "file": "mullana-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Munsyari",
+    "state": "North India",
+    "subject": "The town features the ancient Munsyari Fort",
+    "file": "munsyari-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Murthal",
+    "state": "Haryana",
+    "subject": "The town features the ancient Murthal Fort",
+    "file": "murthal-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Nagina",
+    "state": "North India",
+    "subject": "The town features the ancient Nagina Fort",
+    "file": "nagina-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Mussoorie",
+    "state": "Uttarakhand",
+    "subject": "Kempty Falls & Queen of Hills Himalayan Valley",
+    "file": "mussoorie-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Nagrota Surian",
+    "state": "North India",
+    "subject": "Nagrota Surian Historic Temples & Cultural Heritage",
+    "file": "nagrota-surian-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Muzaffarnagar",
+    "state": "Uttar Pradesh",
+    "subject": "Shukratal Sacred Banyan Tree & Historic Ganga Basin",
+    "file": "muzaffarnagar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Nabha",
+    "state": "North India",
+    "subject": "The town features the ancient Nabha Fort",
+    "file": "nabha-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Nahan",
+    "state": "Himachal Pradesh",
+    "subject": "Renuka Lake Sanctuary & Sirmaur Royal Palaces",
+    "file": "nahan-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Nagaur",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Nagaur Fort",
+    "file": "nagaur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Naimisaradya",
+    "state": "North India",
+    "subject": "Naimisaradya Historic Temples & Cultural Heritage",
+    "file": "naimisaradya-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Musafirkhana",
+    "state": "North India",
+    "subject": "Musafirkhana Historic Temples & Cultural Heritage",
+    "file": "musafirkhana-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Naina Devi",
+    "state": "Himachal Pradesh",
+    "subject": "The town features the ancient Naina Devi Fort",
+    "file": "naina-devi-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Nainital",
+    "state": "Uttarakhand",
+    "subject": "Emerald Naini Lake & Kumaon Hill Viewpoints",
+    "file": "nainital-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Najibabad",
+    "state": "North India",
+    "subject": "The town features the ancient Najibabad Fort",
+    "file": "najibabad-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Naldehra",
+    "state": "North India",
+    "subject": "The town features the ancient Naldehra Fort",
+    "file": "naldehra-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Nakodar",
+    "state": "Punjab",
+    "subject": "Nakodar Historic Gurudwara & Lush Countryside",
+    "file": "nakodar-punjab-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Nalagarh",
+    "state": "Himachal Pradesh",
+    "subject": "The town features the ancient Nalagarh Fort",
+    "file": "nalagarh-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Narkanda",
+    "state": "Himachal Pradesh",
+    "subject": "The town features the ancient Narkanda Fort",
+    "file": "narkanda-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Naraingarh",
+    "state": "North India",
+    "subject": "The town features the ancient Naraingarh Fort",
+    "file": "naraingarh-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Narwana",
+    "state": "Haryana",
+    "subject": "The town features the ancient Narwana Fort",
+    "file": "narwana-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Nangal",
+    "state": "North India",
+    "subject": "The town features the ancient Nangal Fort",
+    "file": "nangal-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Nanak Jhira Sahib",
+    "state": "North India",
+    "subject": "Nanak Jhira Sahib Historic Temples & Cultural Heritage",
+    "file": "nanak-jhira-sahib-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Naukuchiatal",
+    "state": "North India",
+    "subject": "Naukuchiatal Historic Temples & Cultural Heritage",
+    "file": "naukuchiatal-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Nathdwara",
+    "state": "North India",
+    "subject": "The town features the ancient Nathdwara Fort",
+    "file": "nathdwara-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Nawanshahr",
+    "state": "Punjab",
+    "subject": "The town features the ancient Nawanshahr Fort",
+    "file": "nawanshahr-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Narora",
+    "state": "North India",
+    "subject": "The town features the ancient Narora Fort",
+    "file": "narora-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Narnaul",
+    "state": "Haryana",
+    "subject": "The town features the ancient Narnaul Fort",
+    "file": "narnaul-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "National Chambal Wildlife Sanctuary",
+    "state": "North India",
+    "subject": "National Chambal Wildlife Sanctuary",
+    "file": "national-chambal-wildlife-sanctuary-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Nawalgarh",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Nawalgarh Fort",
+    "file": "nawalgarh-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Neemrana",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Neemrana Fort",
+    "file": "neemrana-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Naya Nangal",
+    "state": "North India",
+    "subject": "Naya Nangal Historic Temples & Cultural Heritage",
+    "file": "naya-nangal-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Neemuch",
+    "state": "Madhya Pradesh",
+    "subject": "The town features the ancient Neemuch Fort",
+    "file": "neemuch-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Nilokheri",
+    "state": "North India",
+    "subject": "The town features the ancient Nilokheri Fort",
+    "file": "nilokheri-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Nohar",
+    "state": "North India",
+    "subject": "The town features the ancient Nohar Fort",
+    "file": "nohar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Noorpur",
+    "state": "North India",
+    "subject": "The town features the ancient Noorpur Fort",
+    "file": "noorpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Noida",
+    "state": "Uttar Pradesh",
+    "subject": "The town features the ancient Noida Fort",
+    "file": "noida-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Nokha",
+    "state": "North India",
+    "subject": "The town features the ancient Nokha Fort",
+    "file": "nokha-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Nowrangpur",
+    "state": "North India",
+    "subject": "The town features the ancient Nowrangpur Fort",
+    "file": "nowrangpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Nuh",
+    "state": "North India",
+    "subject": "The town features the ancient Nuh Fort",
+    "file": "nuh-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Orai",
+    "state": "North India",
+    "subject": "The town features the ancient Orai Fort",
+    "file": "orai-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Orchha",
+    "state": "Madhya Pradesh",
+    "subject": "Orchha Jahangir Mahal & Betwa River Cenotaphs",
+    "file": "orchha-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Pahalgam",
+    "state": "Jammu & Kashmir",
+    "subject": "The town features the ancient Pahalgam Fort",
+    "file": "pahalgam-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Nurpur",
+    "state": "North India",
+    "subject": "The town features the ancient Nurpur Fort",
+    "file": "nurpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Palampur",
+    "state": "Himachal Pradesh",
+    "subject": "Tea Garden Slopes & Dhauladhar Snow Himalayan Ridge",
+    "file": "palampur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Palanpur Junction",
+    "state": "North India",
+    "subject": "Palanpur Junction Historic Temples & Cultural Heritage",
+    "file": "palanpur-junction-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Pali",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Pali Fort",
+    "file": "pali-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Palanpur Gujrat",
+    "state": "North India",
+    "subject": "Palanpur Gujrat Historic Temples & Cultural Heritage",
+    "file": "palanpur-gujrat-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Palia Kalan",
+    "state": "North India",
+    "subject": "Palia Kalan Historic Temples & Cultural Heritage",
+    "file": "palia-kalan-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Palwal",
+    "state": "Haryana",
+    "subject": "The town features the ancient Palwal Fort",
+    "file": "palwal-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Panipat",
+    "state": "Haryana",
+    "subject": "Historic Battlefields of Panipat & Kabuli Bagh Mosque",
+    "file": "panipat-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Osian",
+    "state": "North India",
+    "subject": "The town features the ancient Osian Fort",
+    "file": "osian-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Panchkula",
+    "state": "Haryana",
+    "subject": "The town features the ancient Panchkula Fort",
+    "file": "panchkula-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Palanpur (Rajasthan)",
+    "state": "Rajasthan",
+    "subject": "Palanpur (Rajasthan) Heritage Palaces & Historic Rajasthan Citadel",
+    "file": "palanpur-rajasthan-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Panna",
+    "state": "North India",
+    "subject": "The town features the ancient Panna Fort",
+    "file": "panna-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Pantnagar",
+    "state": "Uttarakhand",
+    "subject": "The town features the ancient Pantnagar Fort",
+    "file": "pantnagar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Parwanoo",
+    "state": "Himachal Pradesh",
+    "subject": "The town features the ancient Parwanoo Fort",
+    "file": "parwanoo-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Pataunda",
+    "state": "North India",
+    "subject": "The town features the ancient Pataunda Fort",
+    "file": "pataunda-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Paonta Sahib (HP)",
+    "state": "Himachal Pradesh",
+    "subject": "Paonta Sahib (HP) Himalayan Mountain Valleys & Scenic Hillscapes",
+    "file": "paonta-sahib-himachal-pradesh-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Pavagarh",
+    "state": "North India",
+    "subject": "The town features the ancient Pavagarh Fort",
+    "file": "pavagarh-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Pehowa",
+    "state": "Haryana",
+    "subject": "The town features the ancient Pehowa Fort",
+    "file": "pehowa-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Pathankot",
+    "state": "Punjab",
+    "subject": "Nurpur Fort Foothills & Chakki River Gateway to Hills",
+    "file": "pathankot-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Patiala",
+    "state": "Punjab",
+    "subject": "Qila Mubarak Fort & Sheesh Mahal Royal Palace of Patiala",
+    "file": "patiala-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Pauri Garhwal",
+    "state": "North India",
+    "subject": "Pauri Garhwal Historic Temples & Cultural Heritage",
+    "file": "pauri-garhwal-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Phagwara",
+    "state": "North India",
+    "subject": "The town features the ancient Phagwara Fort",
+    "file": "phagwara-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Patnitop",
+    "state": "Jammu & Kashmir",
+    "subject": "The town features the ancient Patnitop Fort",
+    "file": "patnitop-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Pilani",
+    "state": "North India",
+    "subject": "The town features the ancient Pilani Fort",
+    "file": "pilani-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Phaphund",
+    "state": "North India",
+    "subject": "The town features the ancient Phaphund Fort",
+    "file": "phaphund-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Phillaur",
+    "state": "North India",
+    "subject": "The town features the ancient Phillaur Fort",
+    "file": "phillaur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Pithoragarh",
+    "state": "Uttarakhand",
+    "subject": "Pithoragarh Himalayan Mountain Valleys & Scenic Hillscapes",
+    "file": "pithoragarh-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Pokhran",
+    "state": "North India",
+    "subject": "The town features the ancient Pokhran Fort",
+    "file": "pokhran-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Pratapgarh (Rajasthan)",
+    "state": "Rajasthan",
+    "subject": "Pratapgarh (Rajasthan) Heritage Palaces & Historic Rajasthan Citadel",
+    "file": "pratapgarh-rajasthan-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Phalodi",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Phalodi Fort",
+    "file": "phalodi-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Pinjore",
+    "state": "North India",
+    "subject": "The town features the ancient Pinjore Fort",
+    "file": "pinjore-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Pilibhit",
+    "state": "Uttar Pradesh",
+    "subject": "The town features the ancient Pilibhit Fort",
+    "file": "pilibhit-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Pratapgarh (UP)",
+    "state": "Rajasthan",
+    "subject": "Pratapgarh (UP) Heritage Palaces & Historic Rajasthan Citadel",
+    "file": "pratapgarh-uttar-pradesh-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Prayagraj",
+    "state": "Uttar Pradesh",
+    "subject": "The town features the ancient Prayagraj Fort",
+    "file": "prayagraj-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Prempura",
+    "state": "North India",
+    "subject": "The town features the ancient Prempura Fort",
+    "file": "prempura-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Puranpur",
+    "state": "North India",
+    "subject": "The town features the ancient Puranpur Fort",
+    "file": "puranpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Raigarh",
+    "state": "North India",
+    "subject": "The town features the ancient Raigarh Fort",
+    "file": "raigarh-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Raichak",
+    "state": "North India",
+    "subject": "The town features the ancient Raichak Fort",
+    "file": "raichak-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Pushkar",
+    "state": "Rajasthan",
+    "subject": "Sacred Pushkar Lake & Jagatpita Brahma Temple Ghats",
+    "file": "pushkar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Rajaji National Park",
+    "state": "North India",
+    "subject": "Rajaji National Park Historic Temples & Cultural Heritage",
+    "file": "rajaji-national-park-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Raikot",
+    "state": "North India",
+    "subject": "The town features the ancient Raikot Fort",
+    "file": "raikot-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Raebareli",
+    "state": "Uttar Pradesh",
+    "subject": "The town features the ancient Raebareli Fort",
+    "file": "raebareli-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Rajapur Road",
+    "state": "North India",
+    "subject": "Rajapur Road Historic Temples & Cultural Heritage",
+    "file": "rajapur-road-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Ram Gaon",
+    "state": "North India",
+    "subject": "The town features the ancient Ram Gaon Fort",
+    "file": "ram-gaon-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Rajakhera",
+    "state": "North India",
+    "subject": "The town features the ancient Rajakhera Fort",
+    "file": "rajakhera-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Ramdevra",
+    "state": "North India",
+    "subject": "The town features the ancient Ramdevra Fort",
+    "file": "ramdevra-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Rajpura",
+    "state": "Punjab",
+    "subject": "The town features the ancient Rajpura Fort",
+    "file": "rajpura-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Rajsamand",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Rajsamand Fort",
+    "file": "rajsamand-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Ramgarh Shekhawati",
+    "state": "Rajasthan",
+    "subject": "Ramgarh Shekhawati Heritage Palaces & Historic Rajasthan Citadel",
+    "file": "ramgarh-shekhawati-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Rampur (UP)",
+    "state": "Uttar Pradesh",
+    "subject": "Rampur (UP) Historic Temples & Cultural Heritage",
+    "file": "rampur-uttar-pradesh-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Rampur Bushahr (HP)",
+    "state": "Himachal Pradesh",
+    "subject": "Rampur Bushahr (HP) Himalayan Mountain Valleys & Scenic Hillscapes",
+    "file": "rampur-bushahr-himachal-pradesh-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Ramnagar",
+    "state": "Uttarakhand",
+    "subject": "The town features the ancient Ramnagar Fort",
+    "file": "ramnagar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Ranakpur",
+    "state": "North India",
+    "subject": "The town features the ancient Ranakpur Fort",
+    "file": "ranakpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Ranikhet",
+    "state": "Uttarakhand",
+    "subject": "Chaubatia Apple Orchards & Majhkhali Himalayan Viewpoint",
+    "file": "ranikhet-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Ratlam",
+    "state": "Madhya Pradesh",
+    "subject": "The town features the ancient Ratlam Fort",
+    "file": "ratlam-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Ratangarh",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Ratangarh Fort",
+    "file": "ratangarh-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Reengus",
+    "state": "North India",
+    "subject": "The town features the ancient Reengus Fort",
+    "file": "reengus-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Ranthambore",
+    "state": "Rajasthan",
+    "subject": "Ranthambore Fort & Tiger Reserve Wilderness Lake",
+    "file": "ranthambore-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Rewalsar",
+    "state": "North India",
+    "subject": "The town features the ancient Rewalsar Fort",
+    "file": "rewalsar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Renuka Ji (HP)",
+    "state": "Himachal Pradesh",
+    "subject": "Renuka Ji (HP) Himalayan Mountain Valleys & Scenic Hillscapes",
+    "file": "renuka-ji-himachal-pradesh-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Ringas",
+    "state": "North India",
+    "subject": "The town features the ancient Ringas Fort",
+    "file": "ringas-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Rohru",
+    "state": "North India",
+    "subject": "The town features the ancient Rohru Fort",
+    "file": "rohru-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Rohad",
+    "state": "North India",
+    "subject": "The town features the ancient Rohad Fort",
+    "file": "rohad-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Rewari",
+    "state": "Haryana",
+    "subject": "Historic Bada Talao & Heritage Steam Locomotive Shed",
+    "file": "rewari-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Reetha Sahib",
+    "state": "North India",
+    "subject": "Reetha Sahib Historic Temples & Cultural Heritage",
+    "file": "reetha-sahib-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Rishikesh",
+    "state": "Uttarakhand",
+    "subject": "Ram Jhula Suspension Bridge & Holy River Ganga",
+    "file": "rishikesh-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Rudraprayag",
+    "state": "Uttarakhand",
+    "subject": "Rudraprayag Himalayan Mountain Valleys & Scenic Hillscapes",
+    "file": "rudraprayag-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Rohtang La Pass",
+    "state": "Himachal Pradesh",
+    "subject": "Rohtang La Pass Himalayan Mountain Valleys & Scenic Hillscapes",
+    "file": "rohtang-la-pass-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Rohtak",
+    "state": "Haryana",
+    "subject": "Tilyar Lake Promenade & Ancient Khokhrakot Heritage",
+    "file": "rohtak-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Ropar",
+    "state": "North India",
+    "subject": "The town features the ancient Ropar Fort",
+    "file": "ropar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Rudrapur",
+    "state": "Uttarakhand",
+    "subject": "The town features the ancient Rudrapur Fort",
+    "file": "rudrapur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Rupaidiha",
+    "state": "North India",
+    "subject": "The town features the ancient Rupaidiha Fort",
+    "file": "rupaidiha-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Roorkee",
+    "state": "Uttarakhand",
+    "subject": "Solani Aqueduct & Historic Civil Engineering Heritage",
+    "file": "roorkee-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Rupnagar",
+    "state": "Punjab",
+    "subject": "The town features the ancient Rupnagar Fort",
+    "file": "rupnagar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sadulpur",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Sadulpur Fort",
+    "file": "sadulpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sabathu",
+    "state": "North India",
+    "subject": "The town features the ancient Sabathu Fort",
+    "file": "sabathu-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Ruthiyai",
+    "state": "North India",
+    "subject": "The town features the ancient Ruthiyai Fort",
+    "file": "ruthiyai-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sagar Madhya Pradesh",
+    "state": "Madhya Pradesh",
+    "subject": "Sagar Madhya Pradesh Historic Temples & Cultural Heritage",
+    "file": "sagar-madhya-pradesh-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sadri",
+    "state": "North India",
+    "subject": "The town features the ancient Sadri Fort",
+    "file": "sadri-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sahaswan",
+    "state": "North India",
+    "subject": "The town features the ancient Sahaswan Fort",
+    "file": "sahaswan-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Samalkha",
+    "state": "Haryana",
+    "subject": "The town features the ancient Samalkha Fort",
+    "file": "samalkha-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Samrala",
+    "state": "North India",
+    "subject": "The town features the ancient Samrala Fort",
+    "file": "samrala-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sampla",
+    "state": "North India",
+    "subject": "The town features the ancient Sampla Fort",
+    "file": "sampla-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sambhal",
+    "state": "Uttar Pradesh",
+    "subject": "The town features the ancient Sambhal Fort",
+    "file": "sambhal-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Salasar",
+    "state": "Rajasthan",
+    "subject": "Salasar Balaji Sacred Temple & Shekhawati Dunes",
+    "file": "salasar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "subject": "Shakumbhari Devi Temple & Shivalik Foothills Plain",
+    "file": "saharanpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sandila",
+    "state": "North India",
+    "subject": "The town features the ancient Sandila Fort",
+    "file": "sandila-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sangrur",
+    "state": "Punjab",
+    "subject": "The town features the ancient Sangrur Fort",
+    "file": "sangrur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sardhana",
+    "state": "North India",
+    "subject": "The town features the ancient Sardhana Fort",
+    "file": "sardhana-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sankri",
+    "state": "North India",
+    "subject": "The town features the ancient Sankri Fort",
+    "file": "sankri-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sariska",
+    "state": "Rajasthan",
+    "subject": "Sariska Tiger Reserve & Kankwadi Fort Aravalli Valleys",
+    "file": "sariska-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sardarshahar",
+    "state": "North India",
+    "subject": "Sardarshahar Historic Temples & Cultural Heritage",
+    "file": "sardarshahar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sarsawa",
+    "state": "North India",
+    "subject": "The town features the ancient Sarsawa Fort",
+    "file": "sarsawa-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sarwar",
+    "state": "North India",
+    "subject": "The town features the ancient Sarwar Fort",
+    "file": "sarwar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Satpuli",
+    "state": "North India",
+    "subject": "The town features the ancient Satpuli Fort",
+    "file": "satpuli-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Satna",
+    "state": "Madhya Pradesh",
+    "subject": "The town features the ancient Satna Fort",
+    "file": "satna-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sehore",
+    "state": "North India",
+    "subject": "The town features the ancient Sehore Fort",
+    "file": "sehore-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sattal",
+    "state": "North India",
+    "subject": "The town features the ancient Sattal Fort",
+    "file": "sattal-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sawai Madhopur",
+    "state": "Rajasthan",
+    "subject": "Sawai Madhopur Heritage Palaces & Historic Rajasthan Citadel",
+    "file": "sawai-madhopur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Seohara",
+    "state": "North India",
+    "subject": "The town features the ancient Seohara Fort",
+    "file": "seohara-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Shahpura",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Shahpura Fort",
+    "file": "shahpura-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Shahabad Markanda",
+    "state": "North India",
+    "subject": "Shahabad Markanda Historic Temples & Cultural Heritage",
+    "file": "shahabad-markanda-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Shahjahanpur",
+    "state": "Uttar Pradesh",
+    "subject": "Shahjahanpur Historic Temples & Cultural Heritage",
+    "file": "shahjahanpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sewagram",
+    "state": "North India",
+    "subject": "The town features the ancient Sewagram Fort",
+    "file": "sewagram-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Shekhawati",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Shekhawati Fort",
+    "file": "shekhawati-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Shikrapur",
+    "state": "North India",
+    "subject": "The town features the ancient Shikrapur Fort",
+    "file": "shikrapur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Shamli",
+    "state": "Uttar Pradesh",
+    "subject": "The town features the ancient Shamli Fort",
+    "file": "shamli-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Siddhpur",
+    "state": "North India",
+    "subject": "The town features the ancient Siddhpur Fort",
+    "file": "siddhpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Shikohabad",
+    "state": "North India",
+    "subject": "The town features the ancient Shikohabad Fort",
+    "file": "shikohabad-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Shivpuri",
+    "state": "Madhya Pradesh",
+    "subject": "The town features the ancient Shivpuri Fort",
+    "file": "shivpuri-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Shimla",
+    "state": "Himachal Pradesh",
+    "subject": "The Ridge & Christ Church Mountain Cityscape",
+    "file": "shimla-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sikandrabad",
+    "state": "North India",
+    "subject": "Sikandrabad Historic Temples & Cultural Heritage",
+    "file": "sikandrabad-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sidhauli",
+    "state": "North India",
+    "subject": "The town features the ancient Sidhauli Fort",
+    "file": "sidhauli-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sikar",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Sikar Fort",
+    "file": "sikar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sirhind Fatehgarh Sahib",
+    "state": "North India",
+    "subject": "Sirhind Fatehgarh Sahib Historic Temples & Cultural Heritage",
+    "file": "sirhind-fatehgarh-sahib-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Siriyari",
+    "state": "North India",
+    "subject": "The town features the ancient Siriyari Fort",
+    "file": "siriyari-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sojat",
+    "state": "North India",
+    "subject": "The town features the ancient Sojat Fort",
+    "file": "sojat-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sirsaganj",
+    "state": "North India",
+    "subject": "The town features the ancient Sirsaganj Fort",
+    "file": "sirsaganj-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sirmaur",
+    "state": "North India",
+    "subject": "The town features the ancient Sirmaur Fort",
+    "file": "sirmaur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sirsa",
+    "state": "Haryana",
+    "subject": "The town features the ancient Sirsa Fort",
+    "file": "sirsa-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sirohi Road",
+    "state": "Rajasthan",
+    "subject": "Sirohi Road Heritage Palaces & Historic Rajasthan Citadel",
+    "file": "sirohi-road-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sitapur",
+    "state": "Uttar Pradesh",
+    "subject": "The town features the ancient Sitapur Fort",
+    "file": "sitapur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sojat Road",
+    "state": "North India",
+    "subject": "The town features the ancient Sojat Road Fort",
+    "file": "sojat-road-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sohna",
+    "state": "Haryana",
+    "subject": "The town features the ancient Sohna Fort",
+    "file": "sohna-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sitarganj",
+    "state": "North India",
+    "subject": "The town features the ancient Sitarganj Fort",
+    "file": "sitarganj-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Solan",
+    "state": "Himachal Pradesh",
+    "subject": "The town features the ancient Solan Fort",
+    "file": "solan-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Spiti Valley",
+    "state": "Himachal Pradesh",
+    "subject": "Key Monastery & High Altitude Spiti Valley",
+    "file": "spiti-valley-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sonipat",
+    "state": "Haryana",
+    "subject": "Historic Khwaja Khizr Tomb & Haryana Rural Heritage",
+    "file": "sonipat-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Solang",
+    "state": "North India",
+    "subject": "The town features the ancient Solang Fort",
+    "file": "solang-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Someshwar",
+    "state": "North India",
+    "subject": "The town features the ancient Someshwar Fort",
+    "file": "someshwar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sri Dungargarh",
+    "state": "North India",
+    "subject": "Sri Dungargarh Historic Temples & Cultural Heritage",
+    "file": "sri-dungargarh-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Srinagar",
+    "state": "Uttarakhand",
+    "subject": "Srinagar Himalayan Mountain Valleys & Scenic Hillscapes",
+    "file": "srinagar-uttarakhand-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sri Ganganagar",
+    "state": "Rajasthan",
+    "subject": "Sri Ganganagar Heritage Palaces & Historic Rajasthan Citadel",
+    "file": "sri-ganganagar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sujangarh",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Sujangarh Fort",
+    "file": "sujangarh-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sultana",
+    "state": "North India",
+    "subject": "The town features the ancient Sultana Fort",
+    "file": "sultana-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sunauli",
+    "state": "North India",
+    "subject": "The town features the ancient Sunauli Fort",
+    "file": "sunauli-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sumerpur",
+    "state": "North India",
+    "subject": "The town features the ancient Sumerpur Fort",
+    "file": "sumerpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sultanpur Lodhi",
+    "state": "Uttar Pradesh",
+    "subject": "Sultanpur Lodhi Historic Temples & Cultural Heritage",
+    "file": "sultanpur-lodhi-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sundar Nagar",
+    "state": "North India",
+    "subject": "Sundar Nagar Historic Temples & Cultural Heritage",
+    "file": "sundar-nagar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sunam",
+    "state": "North India",
+    "subject": "The town features the ancient Sunam Fort",
+    "file": "sunam-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sultanpur",
+    "state": "Uttar Pradesh",
+    "subject": "The town features the ancient Sultanpur Fort",
+    "file": "sultanpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Tanakpur",
+    "state": "North India",
+    "subject": "The town features the ancient Tanakpur Fort",
+    "file": "tanakpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Sunder Nagar",
+    "state": "North India",
+    "subject": "Sunder Nagar Historic Temples & Cultural Heritage",
+    "file": "sunder-nagar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Tanda Urmar",
+    "state": "North India",
+    "subject": "Tanda Urmar Historic Temples & Cultural Heritage",
+    "file": "tanda-urmar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Theog",
+    "state": "North India",
+    "subject": "The town features the ancient Theog Fort",
+    "file": "theog-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Thanesar",
+    "state": "Haryana",
+    "subject": "The town features the ancient Thanesar Fort",
+    "file": "thanesar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Tehri Garhwal",
+    "state": "Uttarakhand",
+    "subject": "Tehri Garhwal Himalayan Mountain Valleys & Scenic Hillscapes",
+    "file": "tehri-garhwal-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Talwara",
+    "state": "North India",
+    "subject": "The town features the ancient Talwara Fort",
+    "file": "talwara-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Surajpur",
+    "state": "North India",
+    "subject": "The town features the ancient Surajpur Fort",
+    "file": "surajpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Timilimansingh",
+    "state": "North India",
+    "subject": "Timilimansingh Historic Temples & Cultural Heritage",
+    "file": "timilimansingh-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Tarn Taran",
+    "state": "Punjab",
+    "subject": "The town features the ancient Tarn Taran Fort",
+    "file": "tarn-taran-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Tirthan Valley",
+    "state": "Himachal Pradesh",
+    "subject": "Tirthan Valley",
+    "file": "tirthan-valley-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Tijara",
+    "state": "North India",
+    "subject": "The town features the ancient Tijara Fort",
+    "file": "tijara-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Tiuni",
+    "state": "North India",
+    "subject": "The town features the ancient Tiuni Fort",
+    "file": "tiuni-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Tohana",
+    "state": "Haryana",
+    "subject": "The town features the ancient Tohana Fort",
+    "file": "tohana-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Toopran",
+    "state": "North India",
+    "subject": "The town features the ancient Toopran Fort",
+    "file": "toopran-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Tundla",
+    "state": "North India",
+    "subject": "The town features the ancient Tundla Fort",
+    "file": "tundla-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Una",
+    "state": "Himachal Pradesh",
+    "subject": "The town features the ancient Una Fort",
+    "file": "una-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Udaipur Airport",
+    "state": "Rajasthan",
+    "subject": "Udaipur Airport Heritage Palaces & Historic Rajasthan Citadel",
+    "file": "udaipur-airport-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Udaipur",
+    "state": "Rajasthan",
+    "subject": "Lake Pichola & City Palace Marble Architecture",
+    "file": "udaipur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Tonk",
+    "state": "Rajasthan",
+    "subject": "The town features the ancient Tonk Fort",
+    "file": "tonk-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Udhampur",
+    "state": "Jammu & Kashmir",
+    "subject": "The town features the ancient Udhampur Fort",
+    "file": "udhampur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Ujhani",
+    "state": "North India",
+    "subject": "The town features the ancient Ujhani Fort",
+    "file": "ujhani-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Unchahar",
+    "state": "North India",
+    "subject": "The town features the ancient Unchahar Fort",
+    "file": "unchahar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Ujjain",
+    "state": "Madhya Pradesh",
+    "subject": "Mahakaleshwar Jyotirlinga & Shipra River Ram Ghats",
+    "file": "ujjain-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Uttarkashi",
+    "state": "Uttarakhand",
+    "subject": "The town features the ancient Uttarkashi Fort",
+    "file": "uttarkashi-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Varanasi",
+    "state": "Uttar Pradesh",
+    "subject": "Kashi Vishwanath Temple & Ganga Riverfront Ghats",
+    "file": "varanasi-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Vaishno Devi",
+    "state": "Jammu & Kashmir",
+    "subject": "Vaishno Devi Historic Temples & Cultural Heritage",
+    "file": "vaishno-devi-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Tulsipur",
+    "state": "North India",
+    "subject": "The town features the ancient Tulsipur Fort",
+    "file": "tulsipur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Ukhimath",
+    "state": "North India",
+    "subject": "The town features the ancient Ukhimath Fort",
+    "file": "ukhimath-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Unnao",
+    "state": "Uttar Pradesh",
+    "subject": "The town features the ancient Unnao Fort",
+    "file": "unnao-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Vanasthali",
+    "state": "North India",
+    "subject": "The town features the ancient Vanasthali Fort",
+    "file": "vanasthali-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Vasind",
+    "state": "North India",
+    "subject": "The town features the ancient Vasind Fort",
+    "file": "vasind-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Vidisha",
+    "state": "North India",
+    "subject": "The town features the ancient Vidisha Fort",
+    "file": "vidisha-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Vikasnagar",
+    "state": "Uttarakhand",
+    "subject": "The town features the ancient Vikasnagar Fort",
+    "file": "vikasnagar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Visveshwara Nagar",
+    "state": "North India",
+    "subject": "Visveshwara Nagar Historic Temples & Cultural Heritage",
+    "file": "visveshwara-nagar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Yamuna Nagar",
+    "state": "North India",
+    "subject": "Yamuna Nagar Historic Temples & Cultural Heritage",
+    "file": "yamuna-nagar-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Wagah Border",
+    "state": "North India",
+    "subject": "Wagah Border Historic Temples & Cultural Heritage",
+    "file": "wagah-border-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Yamunotri",
+    "state": "Uttarakhand",
+    "subject": "Yamunotri Temple & Sacred Thermal Springs",
+    "file": "yamunotri-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Vrindavan",
+    "state": "Uttar Pradesh",
+    "subject": "Prem Mandir & Banke Bihari Sacred Temple",
+    "file": "vrindavan-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  },
+  {
+    "destination": "Zirakpur",
+    "state": "Punjab",
+    "subject": "The town features the ancient Zirakpur Fort",
+    "file": "zirakpur-urbania-on-rent.webp",
+    "type": "REGIONAL_SCENIC"
+  }
+]
