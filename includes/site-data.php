@@ -57,6 +57,24 @@ $blogs = [
         'excerpt' => 'Agra-Lucknow and Purvanchal Expressways, Dashashwamedh Aarti and the Kashi Vishwanath Corridor by Urbania rental from Delhi NCR.'],
     'delhi-to-chardham'  => ['title' => 'Sacred Himalayan Circuit: Char Dham Yatra Guide', 'dest' => 'Char Dham', 'cat' => 'spiritual', 'tag' => 'Sacred Circuit', 'region' => 'Uttarakhand', 'dist' => '1,600+ km', 'time' => '10–12 days', 'read' => 10, 'route' => 'char-dham-urbania-package.php',
         'excerpt' => 'Yamunotri, Gangotri, Kedarnath and Badrinath — a full itinerary and why Force Urbania on rent in Delhi is the safest yatra vehicle.'],
+    'delhi-to-khatu-shyam' => ['title' => 'Delhi to Khatu Shyam Ji by Force Urbania: Darshan Guide', 'dest' => 'Khatu Shyam', 'cat' => 'spiritual', 'tag' => 'Pilgrimage', 'region' => 'Rajasthan', 'dist' => '265 km', 'time' => '5.5 hrs', 'read' => 5, 'route' => 'delhi-to-khatu-shyam-urbania-on-rent.php',
+        'excerpt' => 'Shyam Baba darshan, the Phalgun mela crowds and a Salasar Balaji add-on, travelling together in a Force Urbania on rent in Delhi.'],
+    'delhi-to-vrindavan' => ['title' => 'Delhi to Vrindavan & Mathura: Braj Yatra by Force Urbania', 'dest' => 'Vrindavan', 'cat' => 'spiritual', 'tag' => 'Braj Yatra', 'region' => 'Uttar Pradesh', 'dist' => '165 km', 'time' => '3 hrs', 'read' => 5, 'route' => 'delhi-to-vrindavan-urbania-on-rent.php',
+        'excerpt' => 'Banke Bihari, Prem Mandir, Mathura and Govardhan in one easy day or weekend trip by Force Urbania hire from Delhi.'],
+    'delhi-to-ayodhya' => ['title' => 'Delhi to Ayodhya Ram Mandir Yatra by Force Urbania', 'dest' => 'Ayodhya', 'cat' => 'spiritual', 'tag' => 'Ram Janmabhoomi', 'region' => 'Uttar Pradesh', 'dist' => '690 km', 'time' => '11 hrs', 'read' => 6, 'route' => 'delhi-to-ayodhya-urbania-on-rent.php',
+        'excerpt' => 'Expressways all the way to Shri Ram Janmabhoomi, Hanuman Garhi and the Saryu aarti, in a comfortable Force Urbania from Delhi.'],
+    'delhi-to-jim-corbett' => ['title' => 'Delhi to Jim Corbett: Weekend Safari Trip by Force Urbania', 'dest' => 'Jim Corbett', 'cat' => 'hill', 'tag' => 'Wildlife', 'region' => 'Uttarakhand', 'dist' => '255 km', 'time' => '5.5 hrs', 'read' => 5, 'route' => 'delhi-to-jim-corbett-urbania-on-rent.php',
+        'excerpt' => 'India\'s oldest national park, jungle safaris, Garjia Devi and riverside resorts, a perfect group weekend by Force Urbania from Delhi.'],
+    'delhi-to-dharamshala' => ['title' => 'Delhi to Dharamshala & McLeod Ganj by Force Urbania', 'dest' => 'Dharamshala', 'cat' => 'hill', 'tag' => 'Himalayas', 'region' => 'Himachal', 'dist' => '480 km', 'time' => '9.5 hrs', 'read' => 5, 'route' => 'delhi-to-dharamshala-urbania.php',
+        'excerpt' => 'Tibetan monasteries, Bhagsu waterfall, the Triund trek and Dhauladhar views, on a hill trip by Force Urbania hire from Delhi.'],
+    'delhi-to-jaisalmer' => ['title' => 'Delhi to Jaisalmer: The Golden City Road Trip by Force Urbania', 'dest' => 'Jaisalmer', 'cat' => 'heritage', 'tag' => 'Desert', 'region' => 'Rajasthan', 'dist' => '770 km', 'time' => '13 hrs', 'read' => 6, 'route' => 'delhi-to-jaisalmer-urbania.php',
+        'excerpt' => 'The living Golden Fort, havelis, Gadisar Lake and a night at the Sam sand dunes, on a desert road trip by Force Urbania from Delhi.'],
+    'delhi-to-ranthambore' => ['title' => 'Delhi to Ranthambore: Tiger Safari Trip by Force Urbania', 'dest' => 'Ranthambore', 'cat' => 'heritage', 'tag' => 'Tigers & Forts', 'region' => 'Rajasthan', 'dist' => '380 km', 'time' => '6 hrs', 'read' => 5, 'route' => 'delhi-to-ranthambore-urbania.php',
+        'excerpt' => 'Tiger safaris, the UNESCO-listed Ranthambore Fort and Trinetra Ganesh, via the new Delhi–Mumbai Expressway in a Force Urbania.'],
+    'delhi-to-kasol' => ['title' => 'Delhi to Kasol & Parvati Valley by Force Urbania', 'dest' => 'Kasol', 'cat' => 'hill', 'tag' => 'Parvati Valley', 'region' => 'Himachal', 'dist' => '520 km', 'time' => '11 hrs', 'read' => 5, 'route' => 'delhi-to-kasol-urbania-on-rent.php',
+        'excerpt' => 'Riverside cafes, Manikaran Sahib, the Kheerganga trek and Tosh: a Parvati Valley group trip by Force Urbania hire from Delhi.'],
+    'delhi-to-lansdowne' => ['title' => 'Delhi to Lansdowne: A Quiet Hill Weekend by Force Urbania', 'dest' => 'Lansdowne', 'cat' => 'hill', 'tag' => 'Quiet Hills', 'region' => 'Uttarakhand', 'dist' => '260 km', 'time' => '6 hrs', 'read' => 4, 'route' => 'delhi-to-lansdowne-urbania-on-rent.php',
+        'excerpt' => 'A peaceful cantonment hill town with pine forests, Bhulla Tal and Tip-n-Top views, an easy weekend by Force Urbania from Delhi.'],
 ];
 
 $blog_landmark_alts = [
@@ -72,6 +90,15 @@ $blog_landmark_alts = [
     'delhi-to-mussoorie' => 'Kempty Falls and scenic mountain valley in Mussoorie, Uttarakhand',
     'delhi-to-varanasi'  => 'Ganga Aarti evening prayer ritual at Dashashwamedh Ghat in Varanasi, Uttar Pradesh',
     'delhi-to-chardham'  => 'Ancient Kedarnath Temple against Himalayan snow peaks in Uttarakhand',
+    'delhi-to-khatu-shyam' => 'Shri Khatu Shyam Ji temple sanctum in Sikar, Rajasthan',
+    'delhi-to-vrindavan' => 'Prem Mandir white marble temple in Vrindavan, Uttar Pradesh',
+    'delhi-to-ayodhya' => 'Shri Ram Janmabhoomi Mandir in Ayodhya, Uttar Pradesh',
+    'delhi-to-jim-corbett' => 'Wild elephants in the grasslands of Dhikala, Jim Corbett National Park',
+    'delhi-to-dharamshala' => 'View over McLeod Ganj and the Kangra valley, Dharamshala, Himachal Pradesh',
+    'delhi-to-jaisalmer' => 'Jaisalmer Fort, the golden sandstone fort of Jaisalmer, Rajasthan',
+    'delhi-to-ranthambore' => 'Bengal tiger in Ranthambore National Park, Rajasthan',
+    'delhi-to-kasol' => 'Parvati valley near Kasol, Kullu district, Himachal Pradesh',
+    'delhi-to-lansdowne' => 'Hills and winding road around Lansdowne in the monsoon, Uttarakhand',
 ];
 
 foreach ($blogs as $slug => &$b) {
