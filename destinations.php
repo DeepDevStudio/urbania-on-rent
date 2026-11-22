@@ -33,7 +33,7 @@ if ($current_origin_id === 'delhi') {
     $page_title = 'Explore 600+ Destinations by Force Urbania on Rent from ' . $origin_display_name . ' | Luxury Outstation Van Hire';
     $page_description = 'Book luxury Force Urbania on rent from ' . $origin_display_name . ' with driver across 600+ outstation routes. 9, 12 & 16 seater Urbania for hill stations, pilgrimage tours, corporate trips & family vacations.';
     $page_keywords = 'urbania destinations from ' . strtolower($origin_display_name) . ', ' . strtolower($origin_display_name) . ' to outstation urbania, force urbania hire ' . strtolower($origin_display_name) . ', luxury van rental ' . strtolower($origin_display_name);
-    $canonical_url = 'https://urbaniaonrentdelhi.co.in/destinations/' . $current_origin_id;
+    $canonical_url = 'https://urbaniaonrentdelhi.co.in/destinations.php?origin=' . $current_origin_id; // the address that opens (and is in the sitemap)
 }
 $hide_breadcrumb = true;
 
