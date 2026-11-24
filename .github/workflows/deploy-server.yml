@@ -1,0 +1,38 @@
+name: Deploy Urbania on Rent to the website server
+
+# Every change merged into main goes live on 160.22.109.65. The server pulls this
+# repository and runs /opt/sites/bin/deploy-urbania (switch release, check the home
+# page, roll back on failure). Secret GMY_DEPLOY_SSH_KEY: private key whose public
+# half is in the server's /root/.ssh/authorized_keys.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: urbania-server-deploy
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check PHP files
+        run: find . -maxdepth 3 -type f -name '*.php' -not -path './scratch/*' -print0 | xargs -0 -n1 php -l >/dev/null
+
+      - name: SSH key for the server
+        env:
+          KEY: ${{ secrets.GMY_DEPLOY_SSH_KEY }}
+        run: |
+          mkdir -p ~/.ssh && chmod 700 ~/.ssh
+          printf '%s\n' "$KEY" > ~/.ssh/id_ed25519 && chmod 600 ~/.ssh/id_ed25519
+          echo '160.22.109.65 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAz+9EMrUhrZLo0oxjM2yCbBp0CoCaL/6w9n/d5E6uct' > ~/.ssh/known_hosts
+
+      - name: Deploy
+        run: ssh root@160.22.109.65 /opt/sites/bin/deploy-urbania
